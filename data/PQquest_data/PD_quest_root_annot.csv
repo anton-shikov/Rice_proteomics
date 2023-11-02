@@ -1,0 +1,97 @@
+Pdquest;Annotation;Spot;Accession
+SSP 0001;-;3;-
+SSP 0002;-;2;-
+SSP 0003;Prb1 [Oryza sativa Japonica Group];1;AAQ19031.1 
+SSP 0004;-;14;-
+SSP 0005;-;13;-
+SSP 0006;-;12;-
+SSP 0301;Chitinase 2 [Oryza sativa Japonica Group];30;XP_015615023.1  
+SSP 0302;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];31;XP_015647554.1 
+SSP 0502;-;49;-
+SSP 0503;-;50;-
+SSP 0701;-;61;-
+SSP 0901;-;89;-
+SSP 1001;-;4;-
+SSP 1002;-;5;-
+SSP 1003;-;15;-
+SSP 1302;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];32;XP_015647554.1
+SSP 1702;-;62;-
+SSP 2001;-;6;-
+SSP 2002;-;7;-
+SSP 2003;-;16;-
+SSP 2302;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];33;XP_015647554.1 
+SSP 2401;-;36;-
+SSP 2501;Glucan endo-1,3-beta-glucosidase 7 [Oryza sativa Japonica Group];37;XP_015649129.1 
+SSP 2901;Peroxidase 1-like [Oryza sativa Japonica Group];90;XP_015645086.1
+SSP 3001;"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+";8;AAG44566.1  
+SSP 3401;-;34;-
+SSP 3501;Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group];38;XP_015635326.1 
+SSP 3502;Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group];39;XP_015635326.1  
+SSP 3602;-;54;-
+SSP 3901;Peroxidase P7 [Oryza sativa Japonica Group];81;XP_015643864.1
+SSP 3902;-;82;-
+SSP 3903;-;83;-
+SSP 3904;Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group];91;XP_015613137.1
+SSP 3905;Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group];92;XP_015613137.1
+SSP 4001;-;10;-
+SSP 4002;-;9;-
+SSP 4101;-;24;-
+SSP 4102;"Pr1-like protein [Oryza sativa Japonica Group]
+";19;BAD62456.1 
+SSP 4103;-;20;-
+SSP 4104;Superoxide dismutase [Oryza sativa Japonica Group];21;AAA33917.1 
+SSP 4105;-;23;-
+SSP 4402;-;35;-
+SSP 4403;Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group];41;XP_015635326.1  
+SSP 4502;Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group];40;XP_015635326.1  
+SSP 4503;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];51;XP_015647554.1  
+SSP 4602;-;55;-
+SSP 4603;Peroxidase 2 [Oryza sativa Japonica Group];56;BAC79528.1
+SSP 5102;-;25;-
+SSP 5501;-;42;-
+SSP 5601;Peroxidase 2 [Oryza sativa Japonica Group];57;BAC79528.1
+SSP 6001;-;18;-
+SSP 6102;Superoxide dismutase [Cu-Zn] 2 [Oryza sativa Japonica Group];26;XP_015647771.1
+SSP 6103;-;22;-
+SSP 7501;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] ;52;XP_015647554.1 
+SSP 7502;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];43;XP_015647554.1
+SSP 7602;Chitinase 2 [Oryza sativa Japonica Group];58;XP_015640432.1
+SSP 8002;-;11;-
+SSP 8202;Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group];28;XP_015635326.1 
+SSP 8203;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];29;XP_015647554.1  
+SSP 8501;Germin-like protein 1-1 [Oryza sativa Japonica Group];46;XP_015622834.1
+SSP 8502;Chitinase 2 [Oryza sativa Japonica Group];45;XP_015640432.1 
+SSP 8801;-;72;-
+SSP 8901;-;84;-
+SSP 8902;-;85;-
+SSP 8903;"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+";86;XP_015617521.1
+SSP 8904;-;87;-
+SSP 8905;-;88;-
+SSP 8906;-;71;-
+SSP 8907;-;75;-
+SSP 9001;-;17;-
+SSP 9202;-;27;-
+SSP 9402;-;47;-
+SSP 9501;-;48;-
+SSP 9602;-;53;-
+SSP 9802;Peroxidase P7 [Oryza sativa Japonica Group];73;XP_015643864.1
+SSP 9803;Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group];74;XP_015613809.1
+SSP new1;Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group];44;XP_015647554.1 
+SSP new2;-;59;-
+SSP new3;Peroxidase 2 [Oryza sativa Japonica Group];60;BAC79528.1
+SSP new4;-;63;-
+SSP new5;Peroxidase 2 [Oryza sativa Japonica Group;64;BAC79528.1
+SSP new6;-;65;-
+SSP new7;Peroxidase 2 [Oryza sativa Japonica Group];66;BAC79528.1
+SSP new8;Peroxidase 2 [Oryza sativa Japonica Group];67;BAC79528.1
+SSP new9;Peroxidase 2 [Oryza sativa Japonica Group];68;BAC79528.1
+SSP new10;Chitinase 2 [Oryza sativa Japonica Group];69;XP_015640432.1
+SSP new11;-;70;-
+SSP new12;Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group];76;XP_015613809.1
+SSP new13;Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group];77;XP_015613809.1
+SSP new14;Peroxidase P7 [Oryza sativa Japonica Group];78;XP_015643864.1
+SSP new15;-;79;-
+SSP new16;-;80;-
+SSP new17;-;93;-

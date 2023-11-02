@@ -1,0 +1,57 @@
+Chromosome	Start	Stop	Strand	Type	Intensity_A	Intensity_C	Intensity_R	Acc	Annot
+3	32628790	32632431	+	shoot	17.7993611781072	20.1241401202073	17.6524306086441	XP_025879724.1	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]
+7	2136871	2138335	-	shoot	20.7505278662501	21.8529362975918	21.6339381591206	XP_015646728.1   	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]
+6	1808969	1812083	-	shoot	21.7893905276692	20.2092286849163	22.0845299402691	XP_015643207.1	Transketolase, chloroplastic [Oryza sativa Japonica Group]
+6	4933950	4938469	+	shoot	18.7686399492448	20.5442035551142	20.6248748464193	XP_015643023.1	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]
+5	185654	188484	+	shoot	16.3655855603716	16.7986579631926	17.4558370514631	XP_015640756.1	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]
+5	28617926	28621415	-	shoot	20.0522549854718	22.1509520222127	21.6716994530972	XP_015639465.1 	Malate dehydrogenase, mitochondrial [Oryza sativa Japonica Group]
+4	22732456	22735746	+	shoot	19.760217203971	22.2216602050422	20.0844308059574	XP_015635626.1	Glyceraldehyde-3-phosphate dehydrogenase 2, cytosolic [Oryza sativa Japonica Group]
+4	9075295	9077800	-	shoot	21.6911310983107	22.7261306252381	20.4339934801027	XP_015633459.1 	Sedoheptulose-1,7-bisphosphatase
+2	1988208	19885745	+	shoot	17.2737445793171	19.6690801596229	19.4068624524019	XP_015627405.1	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]
+2	28701996	11263593	+	shoot	21.5652834677879	22.5161573383837	20.3887121335979	XP_015625719.1	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]
+12	11262587	11263593	+	shoot	18.8628899445938	21.0375668725808	16.5774138856105	XP_015619408 	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]
+11	3488768	3491609	-	shoot	22.1298884816917	23.8191882367591	22.0261959315713	XP_015616895.1	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]
+11	28804256	28808548	+	shoot	19.6766653610636	18.4948355867296	18.3981469947644	XP_015616495.1 	Heat shock cognate 70 kDa protein 2 [Oryza sativa Japonica Group] 
+10	10861205	10862638	+	shoot	21.9219866497336	21.3516397882544	19.8405411198444	QFR04205.1 	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"
+8	18020081	18023869	+	shoot	20.5834409198227	21.3248835761776	19.5794534018215	BAD05657.1	"Putative Peptidyl-prolyl cis-trans isomerase, chloroplast precursor (40 kDa thylakoid lumen rotamase) [Oryza sativa Japonica Group]
+"
+11	3488768	3491609	-	shoot	21.6073697817903	22.8892999731947	20.9307562682441	BAA02730.1	Chloroplastic aldolase [Oryza sativa Japonica Group]
+10	10858911	10860173	-	shoot	21.8206349016437	22.4137517646002	20.8888513781394	AGY93290.1	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]
+1	17349338	17350785	+	shoot	17.9675666709964	18.6729376216135	20.1473993063762	ABR26062.1 (2002393A – main)	Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]
+8	1528325	1528985	+	shoot	19.084606569571	20.5083699877137	18.110908490817	AAA82047.1  	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"
+5	13623356	13627054	+	shoot	20.3005005967629	18.0001721098865	20.8221157489296	XP_015639965.1 	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]
+3	1512025	13184453	+	root	17.7440124733137	19.6072627846574	19.9501630758538	AAA33917.1 	Superoxide dismutase [Oryza sativa Japonica Group]
+7	1512025	1512958	+	root	20.1965008874874	16.730794018396	21.1859894842238	AAG44566.1  	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"
+7	1319034	1319789	+	root	19.2869605739007	18.7423404347429	18.9620442229555	AAQ19031.1 	Prb1 [Oryza sativa Japonica Group]
+9	7536715	7539761	+	root	17.8872416905369	19.0453892439615	19.5146302737784	BAD62456.1 	"Pr1-like protein [Oryza sativa Japonica Group]
+"
+7	28678458	28680010	+	root	20.9881985967337	22.9351170241462	23.0969708957741	BAC79528.1	Peroxidase 2 [Oryza sativa Japonica Group]
+10	20956946	2095756	+	root	21.045856417036	22.5192359785718	22.8815607422514	XP_015613137.1	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]
+1	39433701	39435580	+	root	20.6025598779476	22.8961184307606	21.4166660543197	XP_015613809.1	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]
+10	14602547	14603410	+	root	19.2598405546808	18.1737898191766	20.2349239654291	XP_015615023.1  	Chitinase 2 [Oryza sativa Japonica Group]
+11	1454354	1459629	+	root	16.3971828838044	21.1984111057519	19.9393462299096	XP_015617521.1	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"
+1	10167946	10168997	-	root	20.1427497834708	20.6141121784361	21.0332171055178	XP_015622834.1	Germin-like protein 1-1 [Oryza sativa Japonica Group]
+4	33641419	19427358	+	root	20.2948888937518	21.8957498233909	22.5408889037259	XP_015635326.1 	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]
+5	19426768	19427358	+	root	20.3818508120134	21.6349955431104	22.1814905728369	XP_015640432.1	Chitinase 2 [Oryza sativa Japonica Group]
+6	20705653	20706201	-	root	20.0948014006063	21.4846500891631	22.5728690429162	XP_015643864.1	Peroxidase P7 [Oryza sativa Japonica Group]
+7	240703	240891	+	root	19.3786953172422	22.6811966912497	21.5330388302037	XP_015645086.1	Peroxidase 1-like [Oryza sativa Japonica Group]
+7	28678558	28679604	+	root	21.1953742446632	22.5436969273282	23.3560494854462	XP_015647501.2	Peroxidase 2 [Oryza sativa Japonica Group]
+7	21223474	21225367	-	root	20.3849372790976	20.1865861247875	22.0985441315386	XP_015647554.1	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]
+7	28075778	28076945	-	root	19.7193772796166	19.6689697290829	21.7785552604762	XP_015647771.1	Superoxide dismutase [Cu-Zn] 2 [Oryza sativa Japonica Group]
+8	8837430	8839351	+	root	19.8405192818898	22.6329795657821	23.4857692453747	XP_015649129.1 	Glucan endo-1,3-beta-glucosidase 7 [Oryza sativa Japonica Group]
+1	10868047	10868047	ref	ref	0	0	0	ref	ref
+2	2233552	2233552	ref	ref	0	0	0	ref	ref
+3	3813417	3813417	ref	ref	0	0	0	ref	ref
+4	27142384	27142384	ref	ref	0	0	0	ref	ref
+5	23164035	23164035	ref	ref	0	0	0	ref	ref
+6	10263364	10263364	ref	ref	0	0	0	ref	ref
+7	22610364	22610364	ref	ref	0	0	0	ref	ref
+8	2109634	2109634	ref	ref	0	0	0	ref	ref
+9	8518996	8518996	ref	ref	0	0	0	ref	ref
+10	5959403	5959403	ref	ref	0	0	0	ref	ref
+11	5089417	5089417	ref	ref	0	0	0	ref	ref
+12	19157585	19157585	ref	ref	0	0	0	ref	ref

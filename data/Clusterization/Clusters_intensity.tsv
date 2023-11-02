@@ -1,0 +1,127 @@
+Cluster	Intensity	Condition	Organ	Method	Group
+1	21.966438948471836	Control	Root	h_clust	All
+1	21.854346546353895	Anoxia	Root	h_clust	All
+1	22.021137263710603	Reaeration	Root	h_clust	All
+2	18.8333604284597	Control	Root	h_clust	All
+2	20.48135648536198	Anoxia	Root	h_clust	All
+2	20.209567883211946	Reaeration	Root	h_clust	All
+3	19.391821112901813	Control	Root	h_clust	All
+3	17.805436252869598	Anoxia	Root	h_clust	All
+3	17.62215080330784	Reaeration	Root	h_clust	All
+1	19.257497319054224	Control	Root	h_clust	Annotated
+1	19.485622086458847	Anoxia	Root	h_clust	Annotated
+1	19.31096638164183	Reaeration	Root	h_clust	Annotated
+2	21.97170740874241	Control	Root	h_clust	Annotated
+2	21.640428893612583	Anoxia	Root	h_clust	Annotated
+2	21.837348721042833	Reaeration	Root	h_clust	Annotated
+1	22.31981060548692	Control	Root	h_clust	Significant
+1	22.038714573519012	Anoxia	Root	h_clust	Significant
+1	21.950758741044336	Reaeration	Root	h_clust	Significant
+2	18.05292749081689	Control	Root	h_clust	Significant
+2	21.13827692138221	Anoxia	Root	h_clust	Significant
+2	20.770126484775417	Reaeration	Root	h_clust	Significant
+3	18.4781427620495	Control	Root	h_clust	Significant
+3	12.4990105007204	Anoxia	Root	h_clust	Significant
+3	12.0942742312158	Reaeration	Root	h_clust	Significant
+4	21.211431150710435	Control	Root	h_clust	Significant
+4	17.912527579208668	Anoxia	Root	h_clust	Significant
+4	17.584942842927003	Reaeration	Root	h_clust	Significant
+1	18.59759565668498	Control	Root	h_clust	Annotated significant
+1	20.127573894879358	Anoxia	Root	h_clust	Annotated significant
+1	20.37407465391522	Reaeration	Root	h_clust	Annotated significant
+2	22.91679506295134	Control	Root	h_clust	Annotated significant
+2	21.97694093334958	Anoxia	Root	h_clust	Annotated significant
+2	21.746624329886842	Reaeration	Root	h_clust	Annotated significant
+1	10.5992553919478	Control	Shoot	h_clust	All
+1	12.6648655045711	Anoxia	Shoot	h_clust	All
+1	10.5992553919478	Reaeration	Shoot	h_clust	All
+2	16.773847775916003	Control	Shoot	h_clust	All
+2	17.220284811263763	Anoxia	Shoot	h_clust	All
+2	16.97808974953269	Reaeration	Shoot	h_clust	All
+3	21.191579682597744	Control	Shoot	h_clust	All
+3	21.518297711052448	Anoxia	Shoot	h_clust	All
+3	21.72372402164817	Reaeration	Shoot	h_clust	All
+4	19.272494880559904	Control	Shoot	h_clust	All
+4	18.844378357826052	Anoxia	Shoot	h_clust	All
+4	18.796398147133036	Reaeration	Shoot	h_clust	All
+5	24.046967584747	Control	Shoot	h_clust	All
+5	19.4266298625389	Anoxia	Shoot	h_clust	All
+5	20.5704404635083	Reaeration	Shoot	h_clust	All
+1	18.909688371982117	Control	Shoot	h_clust	Annotated
+1	18.9551668885847	Anoxia	Shoot	h_clust	Annotated
+1	18.19761924407972	Reaeration	Shoot	h_clust	Annotated
+2	21.157424440831836	Control	Shoot	h_clust	Annotated
+2	21.569621472598296	Anoxia	Shoot	h_clust	Annotated
+2	21.759210276220983	Reaeration	Shoot	h_clust	Annotated
+3	24.046967584747	Control	Shoot	h_clust	Annotated
+3	19.4266298625389	Anoxia	Shoot	h_clust	Annotated
+3	20.5704404635083	Reaeration	Shoot	h_clust	Annotated
+1	10.5992553919478	Control	Shoot	h_clust	Significant
+1	12.6648655045711	Anoxia	Shoot	h_clust	Significant
+1	10.5992553919478	Reaeration	Shoot	h_clust	Significant
+2	17.005175371616083	Control	Shoot	h_clust	Significant
+2	18.074508361739873	Anoxia	Shoot	h_clust	Significant
+2	16.69574111216173	Reaeration	Shoot	h_clust	Significant
+3	17.70653993973833	Control	Shoot	h_clust	Significant
+3	19.269061476642115	Anoxia	Shoot	h_clust	Significant
+3	20.130389082388685	Reaeration	Shoot	h_clust	Significant
+4	21.00256906089272	Control	Shoot	h_clust	Significant
+4	21.075200050415347	Anoxia	Shoot	h_clust	Significant
+4	21.15242678704161	Reaeration	Shoot	h_clust	Significant
+1	19.702070929358698	Control	Shoot	h_clust	Annotated significant
+1	19.367803761569178	Anoxia	Shoot	h_clust	Annotated significant
+1	18.7349788127413	Reaeration	Shoot	h_clust	Annotated significant
+2	16.683390174703497	Control	Shoot	h_clust	Annotated significant
+2	16.08182426093685	Anoxia	Shoot	h_clust	Annotated significant
+2	16.12908672498505	Reaeration	Shoot	h_clust	Annotated significant
+3	20.66249234421845	Control	Shoot	h_clust	Annotated significant
+3	21.30659146875282	Anoxia	Shoot	h_clust	Annotated significant
+3	21.64547883294369	Reaeration	Shoot	h_clust	Annotated significant
+1	18.936446626752723	Control	Root	K-means	All
+1	18.576235416511075	Anoxia	Root	K-means	All
+1	18.305364901371327	Reaeration	Root	K-means	All
+2	21.629327832456894	Control	Root	K-means	All
+2	21.80085698019099	Anoxia	Root	K-means	All
+2	21.929842939781334	Reaeration	Root	K-means	All
+1	19.17263748080786	Control	Root	K-means	Annotated
+1	19.73713285934501	Anoxia	Root	K-means	Annotated
+1	19.66376656514388	Reaeration	Root	K-means	Annotated
+2	22.204978768620236	Control	Root	K-means	Annotated
+2	21.677570806712133	Anoxia	Root	K-means	Annotated
+2	21.854004517231242	Reaeration	Root	K-means	Annotated
+1	20.192867928056454	Control	Root	K-means	Significant
+1	17.39211628033631	Anoxia	Root	K-means	Significant
+1	17.06150738979226	Reaeration	Root	K-means	Significant
+2	20.19285705738045	Control	Root	K-means	Significant
+2	21.668774896324067	Anoxia	Root	K-means	Significant
+2	21.428425903808858	Reaeration	Root	K-means	Significant
+1	18.59759565668498	Control	Root	K-means	Annotated significant
+1	20.127573894879358	Anoxia	Root	K-means	Annotated significant
+1	20.37407465391522	Reaeration	Root	K-means	Annotated significant
+2	22.91679506295134	Control	Root	K-means	Annotated significant
+2	21.97694093334958	Anoxia	Root	K-means	Annotated significant
+2	21.746624329886842	Reaeration	Root	K-means	Annotated significant
+1	17.82040910266572	Control	Shoot	K-means	All
+1	17.807239299383756	Anoxia	Shoot	K-means	All
+1	17.769568078721086	Reaeration	Shoot	K-means	All
+2	21.1260549343357	Control	Shoot	K-means	All
+2	21.139224737617667	Anoxia	Shoot	K-means	All
+2	21.176895958280358	Reaeration	Shoot	K-means	All
+1	18.552461612149045	Control	Shoot	K-means	Annotated
+1	18.958439229433854	Anoxia	Shoot	K-means	Annotated
+1	18.584584748044573	Reaeration	Shoot	K-means	Annotated
+2	21.5915407356356	Control	Shoot	K-means	Annotated
+2	21.586385693413007	Anoxia	Shoot	K-means	Annotated
+2	21.606465202460612	Reaeration	Shoot	K-means	Annotated
+1	14.349783134687248	Control	Shoot	K-means	Significant
+1	16.03391392774835	Anoxia	Shoot	K-means	Significant
+1	14.423423645282352	Reaeration	Shoot	K-means	Significant
+2	19.500183322036253	Control	Shoot	K-means	Significant
+2	20.1186827495323	Anoxia	Shoot	K-means	Significant
+2	20.154037035606677	Reaeration	Shoot	K-means	Significant
+1	17.89831323047852	Control	Shoot	K-means	Annotated significant
+1	17.572480546503975	Anoxia	Shoot	K-means	Annotated significant
+1	16.713084924044875	Reaeration	Shoot	K-means	Annotated significant
+2	20.594931112990334	Control	Shoot	K-means	Annotated significant
+2	21.009478600082716	Anoxia	Shoot	K-means	Annotated significant
+2	21.377732591022635	Reaeration	Shoot	K-means	Annotated significant

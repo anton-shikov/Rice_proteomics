@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MzIdentML id="MS-GF+" version="1.1.0" xmlns="http://psidev.info/psi/pi/mzIdentML/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://psidev.info/psi/pi/mzIdentML/1.1 http://www.psidev.info/files/mzIdentML1.1.0.xsd" creationDate="2021-09-30T16:28:21" >
+<cvList xmlns="http://psidev.info/psi/pi/mzIdentML/1.1">
+    <cv id="PSI-MS" uri="http://psidev.cvs.sourceforge.net/viewvc/*checkout*/psidev/psi/psi-ms/mzML/controlledVocabulary/psi-ms.obo" version="3.30.0" fullName="PSI-MS"/>
+    <cv id="UNIMOD" uri="http://www.unimod.org/obo/unimod.obo" fullName="UNIMOD"/>
+    <cv id="UO" uri="http://obo.cvs.sourceforge.net/*checkout*/obo/obo/ontology/phenotype/unit.obo" fullName="UNIT-ONTOLOGY"/>
+</cvList>
+<AnalysisSoftwareList xmlns="http://psidev.info/psi/pi/mzIdentML/1.1">
+    <AnalysisSoftware version="Beta (v10072)" name="MS-GF+" id="ID_software">
+        <SoftwareName>
+            <cvParam accession="MS:1002048" cvRef="PSI-MS" name="MS-GF+"/>
+        </SoftwareName>
+    </AnalysisSoftware>
+</AnalysisSoftwareList>
+<SequenceCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.1">
+    <DBSequence accession="XXX_BAD68227.1" searchDatabase_ref="SearchDB_1" length="193" id="DBSeq143050197"/>
+    <DBSequence accession="BAF11225.1" searchDatabase_ref="SearchDB_1" length="84" id="DBSeq63999824">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="BAF11225.1 Os03g0204900, partial [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="XXX_BAF11225.1" searchDatabase_ref="SearchDB_1" length="84" id="DBSeq138928266"/>
+    <DBSequence accession="KAB8092975.1" searchDatabase_ref="SearchDB_1" length="171" id="DBSeq12437308">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAB8092975.1 hypothetical protein, partial [Oryza sativa]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="KAF2940613.1" searchDatabase_ref="SearchDB_1" length="152" id="DBSeq20968033">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAF2940613.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="XP_015628685.1" searchDatabase_ref="SearchDB_1" length="194" id="DBSeq36072275">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="XP_015628685.1 uncharacterized protein LOC4333700 [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="EEE59668.1" searchDatabase_ref="SearchDB_1" length="194" id="DBSeq46503675">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="EEE59668.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="XXX_EAZ36424.1" searchDatabase_ref="SearchDB_1" length="387" id="DBSeq130579754"/>
+    <DBSequence accession="XP_015648061.1" searchDatabase_ref="SearchDB_1" length="154" id="DBSeq4427957">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="XP_015648061.1 uncharacterized protein LOC4326164 [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="XXX_XP_015638277.1" searchDatabase_ref="SearchDB_1" length="485" id="DBSeq108938194"/>
+    <DBSequence accession="XXX_EAY98768.1" searchDatabase_ref="SearchDB_1" length="485" id="DBSeq132586552"/>
+    <DBSequence accession="YP_005296425.1" searchDatabase_ref="SearchDB_1" length="498" id="DBSeq1114">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="YP_005296425.1 ATP synthase CF1 beta subunit [Oryza meridionalis]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="NP_039390.1" searchDatabase_ref="SearchDB_1" length="498" id="DBSeq2792739">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="NP_039390.1 ATP synthase CF1 beta subunit [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="AAM08603.1" searchDatabase_ref="SearchDB_1" length="498" id="DBSeq9389729">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="AAM08603.1 Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="KAB8112468.1" searchDatabase_ref="SearchDB_1" length="420" id="DBSeq10741314">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAB8112468.1 hypothetical protein [Oryza sativa]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="AAA84588.1" searchDatabase_ref="SearchDB_1" length="498" id="DBSeq13648612">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="AAA84588.1 atpB gene product [Oryza sativa]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="AJN98974.1" searchDatabase_ref="SearchDB_1" length="556" id="DBSeq13873211">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="AJN98974.1 Sequence 7335 from patent US 8664475 [Unknown]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="KAF2950067.1" searchDatabase_ref="SearchDB_1" length="483" id="DBSeq19957781">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAF2950067.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="KAF2941520.1" searchDatabase_ref="SearchDB_1" length="316" id="DBSeq20899288">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAF2941520.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="KAF2930887.1" searchDatabase_ref="SearchDB_1" length="443" id="DBSeq22058878">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAF2930887.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="KAF2913209.1" searchDatabase_ref="SearchDB_1" length="539" id="DBSeq24049733">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="KAF2913209.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="XP_025879721.1" searchDatabase_ref="SearchDB_1" length="387" id="DBSeq31719733">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="XP_025879721.1 uncharacterized protein LOC112938260 [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="ABF99067.1" searchDatabase_ref="SearchDB_1" length="341" id="DBSeq39298341">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="ABF99067.1 ATP synthase beta chain, putative [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="BAT16302.1" searchDatabase_ref="SearchDB_1" length="346" id="DBSeq40675310">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="BAT16302.1 Os12g0207500 [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="BAT10475.1" searchDatabase_ref="SearchDB_1" length="420" id="DBSeq41083332">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="BAT10475.1 Os10g0355800 [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="BAF29407.2" searchDatabase_ref="SearchDB_1" length="336" id="DBSeq62942428">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="BAF29407.2 Os12g0207500 [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="AEZ03741.1" searchDatabase_ref="SearchDB_1" length="161" id="DBSeq64660836">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="AEZ03741.1 hypothetical protein [Oryza sativa Indica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="ABA96139.1" searchDatabase_ref="SearchDB_1" length="410" id="DBSeq65956814">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="ABA96139.1 ATP synthase beta chain, putative [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="BAD53309.1" searchDatabase_ref="SearchDB_1" length="469" id="DBSeq68199843">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="BAD53309.1 putative ATPase beta subunit [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="AAS90662.1" searchDatabase_ref="SearchDB_1" length="398" id="DBSeq73560948">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="AAS90662.1 putative ATP synthase beta chain [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="BAA90397.1" searchDatabase_ref="SearchDB_1" length="498" id="DBSeq74846265">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="BAA90397.1 ATP synthase beta subunit [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="EEE53363.1" searchDatabase_ref="SearchDB_1" length="165" id="DBSeq48236111">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="EEE53363.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="ABA98851.1" searchDatabase_ref="SearchDB_1" length="185" id="DBSeq65926515">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="ABA98851.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <DBSequence accession="XXX_BAD54046.1" searchDatabase_ref="SearchDB_1" length="657" id="DBSeq83929759"/>
+    <DBSequence accession="XXX_XP_015644149.1" searchDatabase_ref="SearchDB_1" length="844" id="DBSeq108605074"/>
+    <DBSequence accession="XXX_XP_015644150.1" searchDatabase_ref="SearchDB_1" length="760" id="DBSeq108606710"/>
+    <DBSequence accession="XXX_EEC81276.1" searchDatabase_ref="SearchDB_1" length="657" id="DBSeq125308060"/>
+    <DBSequence accession="XXX_EAZ44493.1" searchDatabase_ref="SearchDB_1" length="299" id="DBSeq105484394"/>
+    <DBSequence accession="EEE64583.1" searchDatabase_ref="SearchDB_1" length="391" id="DBSeq45540268">
+        <cvParam accession="MS:1001088" cvRef="PSI-MS" value="EEE64583.1 hypothetical protein [Oryza sativa Japonica Group]" name="protein description"/>
+    </DBSequence>
+    <Peptide id="Pep1">
+        <PeptideSequence>CAMWGIMRWMLAAARVRGGR</PeptideSequence>
+        <Modification monoisotopicMassDelta="15.9949" location="3">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+        </Modification>
+        <Modification monoisotopicMassDelta="15.9949" location="7">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+        </Modification>
+    </Peptide>
+    <Peptide id="Pep2">
+        <PeptideSequence>CAMWGIMRWMLAAARVRGGR</PeptideSequence>
+        <Modification monoisotopicMassDelta="15.9949" location="3">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+        </Modification>
+        <Modification monoisotopicMassDelta="15.9949" location="10">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+        </Modification>
+    </Peptide>
+    <Peptide id="Pep3">
+        <PeptideSequence>RDRPRPRRRPRRDRPR</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep4">
+        <PeptideSequence>DRRPRRRPRPRDRRPR</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep5">
+        <PeptideSequence>ARRRRRRPGER</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep6">
+        <PeptideSequence>RRRRRPVAGGER</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep7">
+        <PeptideSequence>QEGRREQQRMYCMQPER</PeptideSequence>
+        <Modification monoisotopicMassDelta="57.021463735" location="12">
+            <cvParam accession="UNIMOD:4" cvRef="UNIMOD" name="Carbamidomethyl"/>
+        </Modification>
+    </Peptide>
+    <Peptide id="Pep8">
+        <PeptideSequence>DPQRDLWALCEHREATER</PeptideSequence>
+        <Modification monoisotopicMassDelta="57.021463735" location="10">
+            <cvParam accession="UNIMOD:4" cvRef="UNIMOD" name="Carbamidomethyl"/>
+        </Modification>
+    </Peptide>
+    <Peptide id="Pep9">
+        <PeptideSequence>VALVYGQMNEPPGAR</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep10">
+        <PeptideSequence>QQPPAWSPGRNHAR</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep11">
+        <PeptideSequence>GNMEWHKKLDRAHCQIER</PeptideSequence>
+        <Modification monoisotopicMassDelta="15.9949" location="3">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+        </Modification>
+        <Modification monoisotopicMassDelta="57.021463735" location="14">
+            <cvParam accession="UNIMOD:4" cvRef="UNIMOD" name="Carbamidomethyl"/>
+        </Modification>
+    </Peptide>
+    <Peptide id="Pep12">
+        <PeptideSequence>PLRRQRPLQPR</PeptideSequence>
+    </Peptide>
+    <Peptide id="Pep13">
+        <PeptideSequence>SNFATKMFTTPR</PeptideSequence>
+        <Modification monoisotopicMassDelta="15.9949" location="7">
+            <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+        </Modification>
+    </Peptide>
+    <PeptideEvidence isDecoy="true" post="M" pre="K" end="192" start="173" peptide_ref="Pep1" dBSequence_ref="DBSeq143050197" id="PepEv_143050369_1_173"/>
+    <PeptideEvidence isDecoy="true" post="M" pre="K" end="192" start="173" peptide_ref="Pep2" dBSequence_ref="DBSeq143050197" id="PepEv_143050369_2_173"/>
+    <PeptideEvidence isDecoy="false" post="P" pre="R" end="50" start="35" peptide_ref="Pep3" dBSequence_ref="DBSeq63999824" id="PepEv_63999858_3_35"/>
+    <PeptideEvidence isDecoy="false" post="P" pre="R" end="61" start="46" peptide_ref="Pep3" dBSequence_ref="DBSeq63999824" id="PepEv_63999869_3_46"/>
+    <PeptideEvidence isDecoy="true" post="R" pre="R" end="42" start="27" peptide_ref="Pep4" dBSequence_ref="DBSeq138928266" id="PepEv_138928292_4_27"/>
+    <PeptideEvidence isDecoy="false" post="G" pre="R" end="87" start="77" peptide_ref="Pep5" dBSequence_ref="DBSeq12437308" id="PepEv_12437384_5_77"/>
+    <PeptideEvidence isDecoy="false" post="G" pre="R" end="109" start="99" peptide_ref="Pep5" dBSequence_ref="DBSeq20968033" id="PepEv_20968131_5_99"/>
+    <PeptideEvidence isDecoy="false" post="G" pre="R" end="109" start="99" peptide_ref="Pep5" dBSequence_ref="DBSeq36072275" id="PepEv_36072373_5_99"/>
+    <PeptideEvidence isDecoy="false" post="G" pre="R" end="109" start="99" peptide_ref="Pep5" dBSequence_ref="DBSeq46503675" id="PepEv_46503773_5_99"/>
+    <PeptideEvidence isDecoy="true" post="P" pre="R" end="86" start="75" peptide_ref="Pep6" dBSequence_ref="DBSeq130579754" id="PepEv_130579828_6_75"/>
+    <PeptideEvidence isDecoy="false" post="R" pre="K" end="69" start="53" peptide_ref="Pep7" dBSequence_ref="DBSeq4427957" id="PepEv_4428009_7_53"/>
+    <PeptideEvidence isDecoy="true" post="R" pre="R" end="228" start="211" peptide_ref="Pep8" dBSequence_ref="DBSeq108938194" id="PepEv_108938404_8_211"/>
+    <PeptideEvidence isDecoy="true" post="R" pre="R" end="228" start="211" peptide_ref="Pep8" dBSequence_ref="DBSeq132586552" id="PepEv_132586762_8_211"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="246" start="232" peptide_ref="Pep9" dBSequence_ref="DBSeq1114" id="PepEv_1345_9_232"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="246" start="232" peptide_ref="Pep9" dBSequence_ref="DBSeq2792739" id="PepEv_2792970_9_232"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="246" start="232" peptide_ref="Pep9" dBSequence_ref="DBSeq9389729" id="PepEv_9389960_9_232"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="168" start="154" peptide_ref="Pep9" dBSequence_ref="DBSeq10741314" id="PepEv_10741467_9_154"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="246" start="232" peptide_ref="Pep9" dBSequence_ref="DBSeq13648612" id="PepEv_13648843_9_232"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="246" start="232" peptide_ref="Pep9" dBSequence_ref="DBSeq13873211" id="PepEv_13873442_9_232"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="247" start="233" peptide_ref="Pep9" dBSequence_ref="DBSeq19957781" id="PepEv_19958013_9_233"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="64" start="50" peptide_ref="Pep9" dBSequence_ref="DBSeq20899288" id="PepEv_20899337_9_50"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="168" start="154" peptide_ref="Pep9" dBSequence_ref="DBSeq22058878" id="PepEv_22059031_9_154"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="308" start="294" peptide_ref="Pep9" dBSequence_ref="DBSeq24049733" id="PepEv_24050026_9_294"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="135" start="121" peptide_ref="Pep9" dBSequence_ref="DBSeq31719733" id="PepEv_31719853_9_121"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="31" start="17" peptide_ref="Pep9" dBSequence_ref="DBSeq39298341" id="PepEv_39298357_9_17"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="168" start="154" peptide_ref="Pep9" dBSequence_ref="DBSeq40675310" id="PepEv_40675463_9_154"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="168" start="154" peptide_ref="Pep9" dBSequence_ref="DBSeq41083332" id="PepEv_41083485_9_154"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="158" start="144" peptide_ref="Pep9" dBSequence_ref="DBSeq62942428" id="PepEv_62942571_9_144"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="24" start="10" peptide_ref="Pep9" dBSequence_ref="DBSeq64660836" id="PepEv_64660845_9_10"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="232" start="218" peptide_ref="Pep9" dBSequence_ref="DBSeq65956814" id="PepEv_65957031_9_218"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="247" start="233" peptide_ref="Pep9" dBSequence_ref="DBSeq68199843" id="PepEv_68200075_9_233"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="168" start="154" peptide_ref="Pep9" dBSequence_ref="DBSeq73560948" id="PepEv_73561101_9_154"/>
+    <PeptideEvidence isDecoy="false" post="M" pre="K" end="246" start="232" peptide_ref="Pep9" dBSequence_ref="DBSeq74846265" id="PepEv_74846496_9_232"/>
+    <PeptideEvidence isDecoy="false" post="Q" pre="R" end="150" start="137" peptide_ref="Pep10" dBSequence_ref="DBSeq48236111" id="PepEv_48236247_10_137"/>
+    <PeptideEvidence isDecoy="false" post="Q" pre="R" end="170" start="157" peptide_ref="Pep10" dBSequence_ref="DBSeq65926515" id="PepEv_65926671_10_157"/>
+    <PeptideEvidence isDecoy="true" post="L" pre="C" end="465" start="448" peptide_ref="Pep11" dBSequence_ref="DBSeq83929759" id="PepEv_83930206_11_448"/>
+    <PeptideEvidence isDecoy="true" post="L" pre="C" end="465" start="448" peptide_ref="Pep11" dBSequence_ref="DBSeq108605074" id="PepEv_108605521_11_448"/>
+    <PeptideEvidence isDecoy="true" post="L" pre="C" end="465" start="448" peptide_ref="Pep11" dBSequence_ref="DBSeq108606710" id="PepEv_108607157_11_448"/>
+    <PeptideEvidence isDecoy="true" post="L" pre="C" end="465" start="448" peptide_ref="Pep11" dBSequence_ref="DBSeq125308060" id="PepEv_125308507_11_448"/>
+    <PeptideEvidence isDecoy="true" post="A" pre="R" end="137" start="127" peptide_ref="Pep12" dBSequence_ref="DBSeq105484394" id="PepEv_105484520_12_127"/>
+    <PeptideEvidence isDecoy="false" post="D" pre="T" end="78" start="67" peptide_ref="Pep13" dBSequence_ref="DBSeq45540268" id="PepEv_45540334_13_67"/>
+</SequenceCollection>
+<AnalysisCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.1">
+    <SpectrumIdentification spectrumIdentificationList_ref="SI_LIST_1" spectrumIdentificationProtocol_ref="SearchProtocol_1" id="SpecIdent_1">
+        <InputSpectra spectraData_ref="SID_1"/>
+        <SearchDatabaseRef searchDatabase_ref="SearchDB_1"/>
+    </SpectrumIdentification>
+</AnalysisCollection>
+<AnalysisProtocolCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.1">
+    <SpectrumIdentificationProtocol analysisSoftware_ref="ID_software" id="SearchProtocol_1">
+        <SearchType>
+            <cvParam accession="MS:1001083" cvRef="PSI-MS" name="ms-ms search"/>
+        </SearchType>
+        <AdditionalSearchParams>
+            <cvParam accession="MS:1001211" cvRef="PSI-MS" name="parent mass type mono"/>
+            <cvParam accession="MS:1001256" cvRef="PSI-MS" name="fragment mass type mono"/>
+            <userParam value="true" name="TargetDecoyApproach"/>
+            <userParam value="0" name="MinIsotopeError"/>
+            <userParam value="0" name="MaxIsotopeError"/>
+            <userParam value="As written in the spectrum or CID if no info" name="FragmentMethod"/>
+            <userParam value="TOF" name="Instrument"/>
+            <userParam value="Standard" name="Protocol"/>
+            <userParam value="1" name="NumTolerableTermini"/>
+            <userParam value="2" name="NumMatchesPerSpec"/>
+            <userParam value="2" name="MaxNumModifications"/>
+            <userParam value="4" name="MinPepLength"/>
+            <userParam value="30" name="MaxPepLength"/>
+            <userParam value="1" name="MinCharge"/>
+            <userParam value="6" name="MaxCharge"/>
+        </AdditionalSearchParams>
+        <ModificationParams>
+            <SearchModification residues="C" massDelta="57.021465" fixedMod="false">
+                <cvParam accession="UNIMOD:4" cvRef="UNIMOD" name="Carbamidomethyl"/>
+            </SearchModification>
+            <SearchModification residues="M" massDelta="15.9949" fixedMod="false">
+                <cvParam accession="UNIMOD:35" cvRef="UNIMOD" name="Oxidation"/>
+            </SearchModification>
+        </ModificationParams>
+        <Enzymes>
+            <Enzyme missedCleavages="1000" semiSpecific="true" id="Tryp">
+                <EnzymeName>
+                    <cvParam accession="MS:1001251" cvRef="PSI-MS" name="Trypsin"/>
+                </EnzymeName>
+            </Enzyme>
+        </Enzymes>
+        <ParentTolerance>
+            <cvParam accession="MS:1001412" cvRef="PSI-MS" unitCvRef="UO" unitName="dalton" unitAccession="UO:0000221" value="0.2" name="search tolerance plus value"/>
+            <cvParam accession="MS:1001413" cvRef="PSI-MS" unitCvRef="UO" unitName="dalton" unitAccession="UO:0000221" value="0.2" name="search tolerance minus value"/>
+        </ParentTolerance>
+        <Threshold>
+            <cvParam accession="MS:1001494" cvRef="PSI-MS" name="no threshold"/>
+        </Threshold>
+    </SpectrumIdentificationProtocol>
+</AnalysisProtocolCollection>
+<DataCollection xmlns="http://psidev.info/psi/pi/mzIdentML/1.1">
+    <Inputs>
+        <SearchDatabase numDatabaseSequences="403926" location="C:\Users\HP\Desktop\PPB\2021_proteome\rice_MS_MS\IPG_rice.fasta" id="SearchDB_1">
+            <FileFormat>
+                <cvParam accession="MS:1001348" cvRef="PSI-MS" name="FASTA format"/>
+            </FileFormat>
+            <DatabaseName>
+                <userParam name="IPG_rice.fasta"/>
+            </DatabaseName>
+            <cvParam accession="MS:1001197" cvRef="PSI-MS" name="DB composition target+decoy"/>
+            <cvParam accession="MS:1001283" cvRef="PSI-MS" value="^XXX" name="decoy DB accession regexp"/>
+            <cvParam accession="MS:1001195" cvRef="PSI-MS" name="decoy DB type reverse"/>
+        </SearchDatabase>
+        <SpectraData location="C:\Users\HP\Desktop\PPB\2021_proteome\rice_MS_MS\iter_1\16_1.mgf" name="16_1.mgf" id="SID_1">
+            <FileFormat>
+                <cvParam accession="MS:1001062" cvRef="PSI-MS" name="Mascot MGF file"/>
+            </FileFormat>
+            <SpectrumIDFormat>
+                <cvParam accession="MS:1000774" cvRef="PSI-MS" name="multiple peak list nativeID format"/>
+            </SpectrumIDFormat>
+        </SpectraData>
+    </Inputs>
+    <AnalysisData>
+        <SpectrumIdentificationList id="SI_LIST_1">
+            <FragmentationTable>
+                <Measure id="Measure_MZ">
+                    <cvParam accession="MS:1001225" cvRef="PSI-MS" unitCvRef="PSI-MS" unitName="m/z" unitAccession="MS:1000040" name="product ion m/z"/>
+                </Measure>
+            </FragmentationTable>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=8" id="SIR_9">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep1" calculatedMassToCharge="2324.150634765625" experimentalMassToCharge="2324.18017578125" chargeState="1" id="SII_9_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_143050369_1_173"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-20" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="28" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="8.576436E-11" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.005047223" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep2" calculatedMassToCharge="2324.150634765625" experimentalMassToCharge="2324.18017578125" chargeState="1" id="SII_9_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_143050369_2_173"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-25" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="28" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="4.4633125E-10" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.026266543" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_2324.1801" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=5" id="SIR_6">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep3" calculatedMassToCharge="2198.2939453125" experimentalMassToCharge="2198.164794921875" chargeState="1" id="SII_6_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_63999858_3_35"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_63999869_3_46"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-16" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="21" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="2.3089257E-10" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.012900317" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep4" calculatedMassToCharge="2198.2939453125" experimentalMassToCharge="2198.164794921875" chargeState="1" id="SII_6_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_138928292_4_27"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-19" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="21" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="6.0965516E-10" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.034062356" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_2198.1649" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=2" id="SIR_3">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep5" calculatedMassToCharge="1465.879638671875" experimentalMassToCharge="1465.8525390625" chargeState="1" id="SII_3_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_12437384_5_77"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_20968131_5_99"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_36072373_5_99"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_46503773_5_99"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-1" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="28" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="1.5239185E-9" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.078300305" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep6" calculatedMassToCharge="1465.868408203125" experimentalMassToCharge="1465.8525390625" chargeState="1" id="SII_3_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_130579828_6_75"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-8" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="28" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="1.02104645E-8" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.53483456" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_1465.8526" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=6" id="SIR_7">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep7" calculatedMassToCharge="2282.033447265625" experimentalMassToCharge="2282.2255859375" chargeState="1" id="SII_7_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_4428009_7_53"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-35" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="8" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="5.045517E-9" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.28584918" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep8" calculatedMassToCharge="2282.072998046875" experimentalMassToCharge="2282.2255859375" chargeState="1" id="SII_7_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_108938404_8_211"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_132586762_8_211"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-44" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="8" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="8.518183E-8" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="4.8902645" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_2282.2256" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=3" id="SIR_4">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep9" calculatedMassToCharge="1601.810546875" experimentalMassToCharge="1601.9189453125" chargeState="1" id="SII_4_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_1345_9_232"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_2792970_9_232"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_9389960_9_232"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_10741467_9_154"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_13648843_9_232"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_13873442_9_232"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_19958013_9_233"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_20899337_9_50"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_22059031_9_154"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_24050026_9_294"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_31719853_9_121"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_39298357_9_17"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_40675463_9_154"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_41083485_9_154"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_62942571_9_144"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_64660845_9_10"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_65957031_9_218"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_68200075_9_233"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_73561101_9_154"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_74846496_9_232"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-13" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="22" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="6.9905366E-9" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.3848868" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep10" calculatedMassToCharge="1601.804443359375" experimentalMassToCharge="1601.9189453125" chargeState="1" id="SII_4_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_48236247_10_137"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_65926671_10_157"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-20" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="22" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="3.8534445E-8" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="2.0889397" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_1601.9190" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=7" id="SIR_8">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep11" calculatedMassToCharge="2324.113525390625" experimentalMassToCharge="2324.18017578125" chargeState="1" id="SII_8_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_83930206_11_448"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_108605521_11_448"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_108607157_11_448"/>
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_125308507_11_448"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-38" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="15" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="9.793479E-9" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="0.5622408" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep1" calculatedMassToCharge="2324.150634765625" experimentalMassToCharge="2324.18017578125" chargeState="1" id="SII_8_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_143050369_1_173"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-41" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="15" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="2.1129674E-8" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="1.2434789" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_2324.1801_2" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+            <SpectrumIdentificationResult spectraData_ref="SID_1" spectrumID="index=1" id="SIR_2">
+                <SpectrumIdentificationItem passThreshold="true" rank="1" peptide_ref="Pep12" calculatedMassToCharge="1416.865966796875" experimentalMassToCharge="1416.783935546875" chargeState="1" id="SII_2_1">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_105484520_12_127"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-6" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="56" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="2.419076E-8" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="1.2429429" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <SpectrumIdentificationItem passThreshold="true" rank="2" peptide_ref="Pep13" calculatedMassToCharge="1416.694091796875" experimentalMassToCharge="1416.783935546875" chargeState="1" id="SII_2_2">
+                    <PeptideEvidenceRef peptideEvidence_ref="PepEv_45540334_13_67"/>
+                    <cvParam accession="MS:1002049" cvRef="PSI-MS" value="-7" name="MS-GF:RawScore"/>
+                    <cvParam accession="MS:1002050" cvRef="PSI-MS" value="56" name="MS-GF:DeNovoScore"/>
+                    <cvParam accession="MS:1002052" cvRef="PSI-MS" value="2.9517683E-8" name="MS-GF:SpecEValue"/>
+                    <cvParam accession="MS:1002053" cvRef="PSI-MS" value="1.5461664" name="MS-GF:EValue"/>
+                    <cvParam accession="MS:1002054" cvRef="PSI-MS" value="1.0" name="MS-GF:QValue"/>
+                    <cvParam accession="MS:1002055" cvRef="PSI-MS" value="1.0" name="MS-GF:PepQValue"/>
+                    <userParam value="0" name="IsotopeError"/>
+                    <userParam value="CID" name="AssumedDissociationMethod"/>
+                </SpectrumIdentificationItem>
+                <cvParam accession="MS:1000796" cvRef="PSI-MS" value="16_1_1416.7839" name="spectrum title"/>
+            </SpectrumIdentificationResult>
+        </SpectrumIdentificationList>
+    </AnalysisData>
+</DataCollection>
+</MzIdentML>

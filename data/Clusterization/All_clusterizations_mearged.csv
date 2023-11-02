@@ -1,0 +1,721 @@
+Spot	Cluster	Control	Anoxia	Reaeration	Annotation	Organ	Method	Group
+3	1	21.6823982621364	23.7042601141214	22.4738779414454	-	Root	h_clust	All
+31	1	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+49	1	19.757236423329	20.8569140938812	20.3893664120621	-	Root	h_clust	All
+50	1	19.6020757374961	21.331067257685	21.3701611846247	-	Root	h_clust	All
+61	1	19.8146618540376	21.7413393734291	20.7271903912266	-	Root	h_clust	All
+89	1	20.8473878019201	20.334850016382	22.0476805002894	-	Root	h_clust	All
+4	1	23.2148137630935	23.9558033125339	23.8532382948948	-	Root	h_clust	All
+5	1	22.0545715937972	23.3185447344775	22.7430022170365	-	Root	h_clust	All
+32	1	21.5104412542217	23.3966440158602	22.6891992188935	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+62	1	19.7700558560049	22.3643039301129	22.3371469163468	-	Root	h_clust	All
+6	1	22.2066351316683	22.5452550284548	22.6992660441658	-	Root	h_clust	All
+33	1	21.5728119145766	22.1477769482657	22.4100354148192	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+36	1	22.7165162940099	20.9454833413487	21.8733877345446	-	Root	h_clust	All
+37	1	22.2868923249483	20.705614270189	22.7530739326516	Glucan endo-1,3-beta-glucosidase 7 [Oryza sativa Japonica Group]	Root	h_clust	All
+90	1	22.4062906923609	20.0154050775387	20.667474738372	Peroxidase 1-like [Oryza sativa Japonica Group]	Root	h_clust	All
+34	1	21.7497123318815	21.7686963750126	21.8071777935827	-	Root	h_clust	All
+38	1	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	All
+39	1	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	All
+54	1	22.8708146311767	20.7956635278632	22.481836548391	-	Root	h_clust	All
+81	1	23.4352550703853	23.4705868690824	23.7316203049809	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	All
+82	1	24.8789424822923	25.3708959066577	25.5380758279657	-	Root	h_clust	All
+83	1	23.6453294914749	24.7058612321887	23.790531236585	-	Root	h_clust	All
+91	1	22.1016826067172	21.6661835150902	22.3399908584692	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	h_clust	All
+92	1	22.3998216915394	22.0982639426413	21.5785533317986	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	h_clust	All
+24	1	20.4447778237302	20.5514900751234	20.5749500386039	-	Root	h_clust	All
+35	1	21.7099624767719	21.1060716299423	21.5591463611935	-	Root	h_clust	All
+40	1	20.6467976788911	20.8032775346569	22.0885156880431	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	All
+55	1	22.6236972636184	22.3170635004433	22.0545324118693	-	Root	h_clust	All
+56	1	23.7042601141214	22.2241432679586	21.733145162711	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+57	1	23.3202310673516	21.756844185349	22.1683889038674	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+26	1	19.9722239588372	20.4826143662194	20.8071456808736	Superoxide dismutase [Cu-Zn] 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+22	1	19.8372312662322	21.3555958746477	21.2539374664077	-	Root	h_clust	All
+58	1	21.9046506824068	21.7252242225227	21.0210309034305	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+46	1	20.7168502267784	20.812743900765	20.0931062814753	Germin-like protein 1-1 [Oryza sativa Japonica Group]	Root	h_clust	All
+45	1	20.7963259866146	20.8755554097733	20.7494888851097	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+17	1	22.4021137002058	22.5836737407839	22.4166548873689	-	Root	h_clust	All
+74	1	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	All
+44	1	20.9205707307779	21.0017635578709	21.18382112129	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+59	1	22.5125589806554	22.2706039812919	22.9743288620142	-	Root	h_clust	All
+60	1	22.4524640803191	22.1572379075401	22.7232415403882	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+63	1	21.6505369145582	22.1576028150043	22.6432894960302	-	Root	h_clust	All
+64	1	22.4463519443491	22.3783345606821	22.8480885849775	Peroxidase 2 [Oryza sativa Japonica Group	Root	h_clust	All
+65	1	22.730618824276	22.2894605089234	22.7516078697547	-	Root	h_clust	All
+66	1	22.6048004269766	22.0630586796197	22.4898764250352	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+67	1	22.2965421631438	21.8698617840145	22.340129032499	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+68	1	22.0276945530294	21.6731595189705	22.2170054279885	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+69	1	21.8782898973508	21.2879280392415	22.1395782186638	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+70	1	21.5962033900358	21.1009027047574	21.9766156509155	-	Root	h_clust	All
+76	1	21.9720479073851	20.8007383771887	20.8877349679582	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	All
+77	1	22.0909369118879	21.0346285636388	20.7203991596371	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	All
+78	1	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	All
+79	1	21.4596014173207	20.5535023621992	21.0531089440461	-	Root	h_clust	All
+80	1	22.1349883465706	21.5351938713462	22.1493688877038	-	Root	h_clust	All
+93	1	22.2260519594585	22.2423210130716	22.4881668879364	-	Root	h_clust	All
+2	2	17.8942126146678	23.2070942868819	21.3003291922747	-	Root	h_clust	All
+1	2	19.0447377133508	20.405965767718	17.7689593934541	Prb1 [Oryza sativa Japonica Group]	Root	h_clust	All
+14	2	18.2804075442027	20.6904479325928	19.7029453544445	-	Root	h_clust	All
+13	2	17.8630307600559	21.7003680299821	21.3093526241328	-	Root	h_clust	All
+12	2	15.7962137581395	19.1627542667181	18.8881278295603	-	Root	h_clust	All
+30	2	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	All
+15	2	16.1535638795943	19.7636541871264	19.6134946435493	-	Root	h_clust	All
+7	2	19.9475784305046	21.1326018999697	22.3673041895163	-	Root	h_clust	All
+8	2	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	h_clust	All
+9	2	18.5689244895184	19.4750120429963	19.5522448311058	-	Root	h_clust	All
+19	2	19.3484031983108	18.7879275881966	18.3302041732774	"Pr1-like protein [Oryza sativa Japonica Group]
+"	Root	h_clust	All
+21	2	19.7316872912101	18.640476350574	18.8664108514501	Superoxide dismutase [Oryza sativa Japonica Group]	Root	h_clust	All
+23	2	19.8393507439576	21.3290639146922	20.4002290887959	-	Root	h_clust	All
+41	2	21.6090035670213	20.7466928024203	20.0067459888279	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	All
+51	2	20.7712669402341	21.1883548710767	21.6918670226285	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+25	2	21.0393534077931	22.0015585085294	20.9551983996729	-	Root	h_clust	All
+42	2	19.164407640759	20.321323179496	22.0928372847137	-	Root	h_clust	All
+18	2	18.835905831106	18.4865573937129	18.34446562233	-	Root	h_clust	All
+52	2	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	h_clust	All
+43	2	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+28	2	19.9241332482379	19.8181683666495	20.2846205069023	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	All
+16	3	17.1353789985333	18.4628462040216	17.4207517142843	-	Root	h_clust	All
+10	3	15.9101526124025	17.5023241876461	16.3578926224541	-	Root	h_clust	All
+20	3	17.3732973086874	17.8123616602802	17.874295319045	-	Root	h_clust	All
+11	3	18.4781427620495	12.4990105007204	12.0942742312158	-	Root	h_clust	All
+29	3	18.7947012557288	18.5362892158258	18.6017792138269	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	All
+72	3	22.7518524567924	18.7594331463456	17.6654058355122	-	Root	h_clust	All
+84	3	20.0367101081972	15.4183001938413	16.0386393957493	-	Root	h_clust	All
+85	3	20.5897473405745	18.9681876209039	18.5885730074676	-	Root	h_clust	All
+86	3	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	h_clust	All
+87	3	20.569866050904	18.0324562963498	18.0468688211625	-	Root	h_clust	All
+88	3	18.8773826504548	16.9963032727443	16.4019862206155	-	Root	h_clust	All
+71	3	21.8514662968197	20.7581527527562	17.333504279781	-	Root	h_clust	All
+75	3	22.0208206033593	18.9093835466834	16.2253852789087	-	Root	h_clust	All
+27	3	19.0265987476821	17.3029722081536	19.2360082902047	-	Root	h_clust	All
+47	3	12.7000466936918	17.0994571268174	19.4152156678019	-	Root	h_clust	All
+48	3	21.2045840107525	19.7755843906135	18.5006744851904	-	Root	h_clust	All
+53	3	21.7088697165444	17.8167134156817	19.4463093815248	-	Root	h_clust	All
+73	3	18.7235720746233	18.46067214114	19.0063659760347	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	All
+1	1	19.0447377133508	20.405965767718	17.7689593934541	Prb1 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+30	1	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+8	1	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	h_clust	Annotated
+19	1	19.3484031983108	18.7879275881966	18.3302041732774	"Pr1-like protein [Oryza sativa Japonica Group]
+"	Root	h_clust	Annotated
+21	1	19.7316872912101	18.640476350574	18.8664108514501	Superoxide dismutase [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+41	1	21.6090035670213	20.7466928024203	20.0067459888279	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+43	1	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+28	1	19.9241332482379	19.8181683666495	20.2846205069023	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+29	1	18.7947012557288	18.5362892158258	18.6017792138269	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+86	1	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	h_clust	Annotated
+73	1	18.7235720746233	18.46067214114	19.0063659760347	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+31	2	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+32	2	21.5104412542217	23.3966440158602	22.6891992188935	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+33	2	21.5728119145766	22.1477769482657	22.4100354148192	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+37	2	22.2868923249483	20.705614270189	22.7530739326516	Glucan endo-1,3-beta-glucosidase 7 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+90	2	22.4062906923609	20.0154050775387	20.667474738372	Peroxidase 1-like [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+38	2	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+39	2	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+81	2	23.4352550703853	23.4705868690824	23.7316203049809	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+91	2	22.1016826067172	21.6661835150902	22.3399908584692	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+92	2	22.3998216915394	22.0982639426413	21.5785533317986	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+40	2	20.6467976788911	20.8032775346569	22.0885156880431	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+51	2	20.7712669402341	21.1883548710767	21.6918670226285	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+56	2	23.7042601141214	22.2241432679586	21.733145162711	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+57	2	23.3202310673516	21.756844185349	22.1683889038674	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+26	2	19.9722239588372	20.4826143662194	20.8071456808736	Superoxide dismutase [Cu-Zn] 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+52	2	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	h_clust	Annotated
+58	2	21.9046506824068	21.7252242225227	21.0210309034305	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+46	2	20.7168502267784	20.812743900765	20.0931062814753	Germin-like protein 1-1 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+45	2	20.7963259866146	20.8755554097733	20.7494888851097	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+74	2	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+44	2	20.9205707307779	21.0017635578709	21.18382112129	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+60	2	22.4524640803191	22.1572379075401	22.7232415403882	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+64	2	22.4463519443491	22.3783345606821	22.8480885849775	Peroxidase 2 [Oryza sativa Japonica Group	Root	h_clust	Annotated
+66	2	22.6048004269766	22.0630586796197	22.4898764250352	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+67	2	22.2965421631438	21.8698617840145	22.340129032499	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+68	2	22.0276945530294	21.6731595189705	22.2170054279885	Peroxidase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+69	2	21.8782898973508	21.2879280392415	22.1395782186638	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+76	2	21.9720479073851	20.8007383771887	20.8877349679582	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+77	2	22.0909369118879	21.0346285636388	20.7203991596371	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+78	2	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	Annotated
+3	1	21.6823982621364	23.7042601141214	22.4738779414454	-	Root	h_clust	Significant
+31	1	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Significant
+89	1	20.8473878019201	20.334850016382	22.0476805002894	-	Root	h_clust	Significant
+5	1	22.0545715937972	23.3185447344775	22.7430022170365	-	Root	h_clust	Significant
+38	1	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Significant
+39	1	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Significant
+35	1	21.7099624767719	21.1060716299423	21.5591463611935	-	Root	h_clust	Significant
+74	1	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	Significant
+78	1	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	Significant
+2	2	17.8942126146678	23.2070942868819	21.3003291922747	-	Root	h_clust	Significant
+13	2	17.8630307600559	21.7003680299821	21.3093526241328	-	Root	h_clust	Significant
+12	2	15.7962137581395	19.1627542667181	18.8881278295603	-	Root	h_clust	Significant
+30	2	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	Significant
+50	2	19.6020757374961	21.331067257685	21.3701611846247	-	Root	h_clust	Significant
+61	2	19.8146618540376	21.7413393734291	20.7271903912266	-	Root	h_clust	Significant
+15	2	16.1535638795943	19.7636541871264	19.6134946435493	-	Root	h_clust	Significant
+62	2	19.7700558560049	22.3643039301129	22.3371469163468	-	Root	h_clust	Significant
+8	2	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	h_clust	Significant
+52	2	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	h_clust	Significant
+43	2	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Significant
+11	3	18.4781427620495	12.4990105007204	12.0942742312158	-	Root	h_clust	Significant
+72	4	22.7518524567924	18.7594331463456	17.6654058355122	-	Root	h_clust	Significant
+84	4	20.0367101081972	15.4183001938413	16.0386393957493	-	Root	h_clust	Significant
+85	4	20.5897473405745	18.9681876209039	18.5885730074676	-	Root	h_clust	Significant
+86	4	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	h_clust	Significant
+87	4	20.569866050904	18.0324562963498	18.0468688211625	-	Root	h_clust	Significant
+75	4	22.0208206033593	18.9093835466834	16.2253852789087	-	Root	h_clust	Significant
+30	1	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+8	1	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	h_clust	Annotated significant
+52	1	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	h_clust	Annotated significant
+43	1	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+86	1	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	h_clust	Annotated significant
+31	2	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+38	2	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+39	2	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+74	2	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+78	2	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	h_clust	Annotated significant
+3	1	10.5992553919478	12.6648655045711	10.5992553919478	-	Shoot	h_clust	All
+58	2	13.4330967973942	19.3071416845486	14.8362657392115	-	Shoot	h_clust	All
+21	2	16.6518857244115	16.0324383579507	15.0977036142419	-	Shoot	h_clust	All
+4	2	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+70	2	14.9596209486016	19.6516564329255	18.5300413849203	-	Shoot	h_clust	All
+31	2	14.4013444352476	17.354715887901	20.9232586795473	"Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]
+"	Shoot	h_clust	All
+73	2	17.7634043029891	20.2417960251304	18.3992625433115	Heat shock cognate 70 kDa protein 2 [Oryza sativa Japonica Group] 	Shoot	h_clust	All
+71	2	17.3427570941247	20.0110575776786	17.214438312129	-	Shoot	h_clust	All
+26	2	20.9525165631916	15.7206236308865	13.6976705608827	-	Shoot	h_clust	All
+11	2	16.8693469173695	17.5652804739903	17.733999678524	-	Shoot	h_clust	All
+53	2	17.9593560035118	16.8108423646071	17.3846207341097	-	Shoot	h_clust	All
+67	2	17.2490660604746	17.1191151073859	17.3786334754537	-	Shoot	h_clust	All
+12	2	16.7512585052629	15.21262888836	17.487929815893	-	Shoot	h_clust	All
+13	2	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+14	2	17.1334351608379	13.8930424044544	16.7512585052629	-	Shoot	h_clust	All
+2	3	21.8677383466698	21.3489443921747	21.6584479174052	-	Shoot	h_clust	All
+72	3	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+23	3	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	h_clust	All
+24	3	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+29	3	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	h_clust	All
+30	3	18.4618358815392	19.4336866119763	22.0807608787095	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	h_clust	All
+36	3	22.5448107928692	21.7931256154303	23.6879582020805	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+37	3	23.2283220980987	22.4089251312387	23.2164634967481	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+38	3	23.6879582020805	22.4969777797213	23.8403170978344	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+74	3	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+48	3	21.3050301992218	21.0851978332995	22.1147885132138	-	Shoot	h_clust	All
+44	3	21.3380331291322	20.7178123254317	22.3881331099913	Malate dehydrogenase, mitochondrial [Oryza sativa Japonica Group]	Shoot	h_clust	All
+39	3	23.5873314807652	22.2432952152524	22.7254990453607	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+40	3	21.8784581435221	21.6196176031999	22.2257672726263	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	All
+65	3	19.4518629354483	24.2536180716596	19.5674104718888	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	All
+33	3	21.2558515460493	20.8376568690371	20.5107792700052	-	Shoot	h_clust	All
+34	3	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+35	3	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	h_clust	All
+41	3	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	All
+42	3	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	h_clust	All
+43	3	22.4089198886992	21.6675054912473	21.1224198331552	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	All
+59	3	20.2402481576027	21.2253584774178	20.3967301233733	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	All
+60	3	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	All
+61	3	21.4396341711674	21.3872532559547	21.591467069521	"Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]
+"	Shoot	h_clust	All
+62	3	21.605080300023	21.7323542985852	21.7502554103024	ATP synthase CF1 beta subunit (chloroplast) [Oryza glaberrima]	Shoot	h_clust	All
+63	3	21.7983314779317	22.1486508309869	21.4747427160596	Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]	Shoot	h_clust	All
+64	3	20.9361797238822	22.6077496824518	21.0532086573524	Ribulose 1,5-bisphosphate carboxylase/oxygenase, partial [Oryza rufipogon]	Shoot	h_clust	All
+66	3	20.8848394129726	22.5096814969202	20.9082773695711	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	All
+1	4	20.0015318178484	18.8109239389507	19.2238729982623	-	Shoot	h_clust	All
+20	4	17.3837893049301	18.8190803804619	19.8078879611391	-	Shoot	h_clust	All
+17	4	18.5876897035512	19.0950102286086	20.4325484151437	-	Shoot	h_clust	All
+19	4	19.7337185820513	20.0701487503009	19.526250987365	-	Shoot	h_clust	All
+16	4	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+22	4	19.7781500382056	17.8400589959599	17.9486381988311	-	Shoot	h_clust	All
+28	4	19.6145706316068	19.101233328838	18.8025869801727	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	h_clust	All
+5	4	19.4458426725484	21.309911962931	17.1566187700833	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+18	4	16.9721536931135	18.0726882761281	18.9124092513262	-	Shoot	h_clust	All
+15	4	18.1063114905395	18.5701442419797	18.2390980966377	-	Shoot	h_clust	All
+9	4	18.1549671487559	18.2667288137308	18.7703438945694	-	Shoot	h_clust	All
+8	4	17.5929869786273	17.6605085373808	18.5628563162289	-	Shoot	h_clust	All
+10	4	18.6533349312394	18.2486289532776	20.8568454055186	-	Shoot	h_clust	All
+25	4	21.8780228517667	19.2415699766507	19.2225696115671	-	Shoot	h_clust	All
+27	4	18.6436634867585	18.5943591603272	18.1166067718815	-	Shoot	h_clust	All
+49	4	21.3302262482744	20.2515672406157	20.4539150321556	Glyceraldehyde-3-phosphate dehydrogenase 2, cytosolic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+55	4	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	All
+46	4	20.8131912514242	18.9116394204827	19.8075704356739	-	Shoot	h_clust	All
+50	4	20.7839881825981	18.5883995956358	18.2064353147948	-	Shoot	h_clust	All
+45	4	19.9600336542443	16.8433241643638	19.5714830155549	-	Shoot	h_clust	All
+57	4	19.5082531292538	19.9587078005701	19.5861275593742	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	h_clust	All
+51	4	17.8468825354416	18.2352047744211	19.7872653730275	-	Shoot	h_clust	All
+47	4	19.971945754529	18.5438020985982	19.4014410408066	-	Shoot	h_clust	All
+52	4	19.209628518273	16.685142672833	17.7622637431827	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	h_clust	All
+56	4	19.7872034495029	19.2182421450025	16.5373125349381	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	h_clust	All
+68	4	17.733999678524	18.1454142956844	17.5265376337447	-	Shoot	h_clust	All
+7	4	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+54	4	19.4480201325035	19.4474597106377	17.5332181317537	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	h_clust	All
+69	4	17.4646888405604	18.2063732379732	18.5876897035512	-	Shoot	h_clust	All
+32	4	20.4431021197862	20.3594646948686	19.753172640198	"Putative Peptidyl-prolyl cis-trans isomerase, chloroplast precursor (40 kDa thylakoid lumen rotamase) [Oryza sativa Japonica Group]
+"	Shoot	h_clust	All
+6	5	24.046967584747	19.4266298625389	20.5704404635083	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	All
+16	1	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+4	1	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+28	1	19.6145706316068	19.101233328838	18.8025869801727	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	h_clust	Annotated
+31	1	14.4013444352476	17.354715887901	20.9232586795473	"Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]
+"	Shoot	h_clust	Annotated
+73	1	17.7634043029891	20.2417960251304	18.3992625433115	Heat shock cognate 70 kDa protein 2 [Oryza sativa Japonica Group] 	Shoot	h_clust	Annotated
+5	1	19.4458426725484	21.309911962931	17.1566187700833	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+49	1	21.3302262482744	20.2515672406157	20.4539150321556	Glyceraldehyde-3-phosphate dehydrogenase 2, cytosolic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+55	1	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated
+57	1	19.5082531292538	19.9587078005701	19.5861275593742	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	h_clust	Annotated
+52	1	19.209628518273	16.685142672833	17.7622637431827	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+56	1	19.7872034495029	19.2182421450025	16.5373125349381	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	h_clust	Annotated
+7	1	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+13	1	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+54	1	19.4480201325035	19.4474597106377	17.5332181317537	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+32	1	20.4431021197862	20.3594646948686	19.753172640198	"Putative Peptidyl-prolyl cis-trans isomerase, chloroplast precursor (40 kDa thylakoid lumen rotamase) [Oryza sativa Japonica Group]
+"	Shoot	h_clust	Annotated
+72	2	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+23	2	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+24	2	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+29	2	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	h_clust	Annotated
+30	2	18.4618358815392	19.4336866119763	22.0807608787095	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	h_clust	Annotated
+36	2	22.5448107928692	21.7931256154303	23.6879582020805	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+37	2	23.2283220980987	22.4089251312387	23.2164634967481	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+38	2	23.6879582020805	22.4969777797213	23.8403170978344	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+74	2	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+44	2	21.3380331291322	20.7178123254317	22.3881331099913	Malate dehydrogenase, mitochondrial [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+39	2	23.5873314807652	22.2432952152524	22.7254990453607	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+40	2	21.8784581435221	21.6196176031999	22.2257672726263	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+65	2	19.4518629354483	24.2536180716596	19.5674104718888	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated
+34	2	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+35	2	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	h_clust	Annotated
+41	2	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+42	2	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	h_clust	Annotated
+43	2	22.4089198886992	21.6675054912473	21.1224198331552	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+59	2	20.2402481576027	21.2253584774178	20.3967301233733	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated
+60	2	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated
+61	2	21.4396341711674	21.3872532559547	21.591467069521	"Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]
+"	Shoot	h_clust	Annotated
+62	2	21.605080300023	21.7323542985852	21.7502554103024	ATP synthase CF1 beta subunit (chloroplast) [Oryza glaberrima]	Shoot	h_clust	Annotated
+63	2	21.7983314779317	22.1486508309869	21.4747427160596	Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+64	2	20.9361797238822	22.6077496824518	21.0532086573524	Ribulose 1,5-bisphosphate carboxylase/oxygenase, partial [Oryza rufipogon]	Shoot	h_clust	Annotated
+66	2	20.8848394129726	22.5096814969202	20.9082773695711	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated
+6	3	24.046967584747	19.4266298625389	20.5704404635083	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated
+3	1	10.5992553919478	12.6648655045711	10.5992553919478	-	Shoot	h_clust	Significant
+58	2	13.4330967973942	19.3071416845486	14.8362657392115	-	Shoot	h_clust	Significant
+4	2	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+18	2	16.9721536931135	18.0726882761281	18.9124092513262	-	Shoot	h_clust	Significant
+15	2	18.1063114905395	18.5701442419797	18.2390980966377	-	Shoot	h_clust	Significant
+68	2	17.733999678524	18.1454142956844	17.5265376337447	-	Shoot	h_clust	Significant
+7	2	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+13	2	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+20	3	17.3837893049301	18.8190803804619	19.8078879611391	-	Shoot	h_clust	Significant
+17	3	18.5876897035512	19.0950102286086	20.4325484151437	-	Shoot	h_clust	Significant
+16	3	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+72	3	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+70	3	14.9596209486016	19.6516564329255	18.5300413849203	-	Shoot	h_clust	Significant
+23	3	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+19	4	19.7337185820513	20.0701487503009	19.526250987365	-	Shoot	h_clust	Significant
+24	4	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+29	4	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	h_clust	Significant
+74	4	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+55	4	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Significant
+33	4	21.2558515460493	20.8376568690371	20.5107792700052	-	Shoot	h_clust	Significant
+34	4	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+35	4	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	h_clust	Significant
+41	4	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	Significant
+42	4	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	h_clust	Significant
+60	4	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Significant
+16	1	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+23	1	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+55	1	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated significant
+7	1	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+4	2	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+13	2	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+72	3	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+24	3	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+29	3	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	h_clust	Annotated significant
+74	3	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+34	3	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+35	3	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	h_clust	Annotated significant
+41	3	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	h_clust	Annotated significant
+42	3	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	h_clust	Annotated significant
+60	3	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	h_clust	Annotated significant
+1	1	19.0447377133508	20.405965767718	17.7689593934541	Prb1 [Oryza sativa Japonica Group]	Root	K-means	All
+14	1	18.2804075442027	20.6904479325928	19.7029453544445	-	Root	K-means	All
+12	1	15.7962137581395	19.1627542667181	18.8881278295603	-	Root	K-means	All
+30	1	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+15	1	16.1535638795943	19.7636541871264	19.6134946435493	-	Root	K-means	All
+16	1	17.1353789985333	18.4628462040216	17.4207517142843	-	Root	K-means	All
+8	1	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	K-means	All
+10	1	15.9101526124025	17.5023241876461	16.3578926224541	-	Root	K-means	All
+9	1	18.5689244895184	19.4750120429963	19.5522448311058	-	Root	K-means	All
+19	1	19.3484031983108	18.7879275881966	18.3302041732774	"Pr1-like protein [Oryza sativa Japonica Group]
+"	Root	K-means	All
+20	1	17.3732973086874	17.8123616602802	17.874295319045	-	Root	K-means	All
+21	1	19.7316872912101	18.640476350574	18.8664108514501	Superoxide dismutase [Oryza sativa Japonica Group]	Root	K-means	All
+18	1	18.835905831106	18.4865573937129	18.34446562233	-	Root	K-means	All
+43	1	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+11	1	18.4781427620495	12.4990105007204	12.0942742312158	-	Root	K-means	All
+28	1	19.9241332482379	19.8181683666495	20.2846205069023	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	All
+29	1	18.7947012557288	18.5362892158258	18.6017792138269	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+72	1	22.7518524567924	18.7594331463456	17.6654058355122	-	Root	K-means	All
+84	1	20.0367101081972	15.4183001938413	16.0386393957493	-	Root	K-means	All
+85	1	20.5897473405745	18.9681876209039	18.5885730074676	-	Root	K-means	All
+86	1	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	K-means	All
+87	1	20.569866050904	18.0324562963498	18.0468688211625	-	Root	K-means	All
+88	1	18.8773826504548	16.9963032727443	16.4019862206155	-	Root	K-means	All
+71	1	21.8514662968197	20.7581527527562	17.333504279781	-	Root	K-means	All
+75	1	22.0208206033593	18.9093835466834	16.2253852789087	-	Root	K-means	All
+27	1	19.0265987476821	17.3029722081536	19.2360082902047	-	Root	K-means	All
+47	1	12.7000466936918	17.0994571268174	19.4152156678019	-	Root	K-means	All
+48	1	21.2045840107525	19.7755843906135	18.5006744851904	-	Root	K-means	All
+53	1	21.7088697165444	17.8167134156817	19.4463093815248	-	Root	K-means	All
+73	1	18.7235720746233	18.46067214114	19.0063659760347	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	All
+3	2	21.6823982621364	23.7042601141214	22.4738779414454	-	Root	K-means	All
+2	2	17.8942126146678	23.2070942868819	21.3003291922747	-	Root	K-means	All
+13	2	17.8630307600559	21.7003680299821	21.3093526241328	-	Root	K-means	All
+31	2	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+49	2	19.757236423329	20.8569140938812	20.3893664120621	-	Root	K-means	All
+50	2	19.6020757374961	21.331067257685	21.3701611846247	-	Root	K-means	All
+61	2	19.8146618540376	21.7413393734291	20.7271903912266	-	Root	K-means	All
+89	2	20.8473878019201	20.334850016382	22.0476805002894	-	Root	K-means	All
+4	2	23.2148137630935	23.9558033125339	23.8532382948948	-	Root	K-means	All
+5	2	22.0545715937972	23.3185447344775	22.7430022170365	-	Root	K-means	All
+32	2	21.5104412542217	23.3966440158602	22.6891992188935	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+62	2	19.7700558560049	22.3643039301129	22.3371469163468	-	Root	K-means	All
+6	2	22.2066351316683	22.5452550284548	22.6992660441658	-	Root	K-means	All
+7	2	19.9475784305046	21.1326018999697	22.3673041895163	-	Root	K-means	All
+33	2	21.5728119145766	22.1477769482657	22.4100354148192	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+36	2	22.7165162940099	20.9454833413487	21.8733877345446	-	Root	K-means	All
+37	2	22.2868923249483	20.705614270189	22.7530739326516	Glucan endo-1,3-beta-glucosidase 7 [Oryza sativa Japonica Group]	Root	K-means	All
+90	2	22.4062906923609	20.0154050775387	20.667474738372	Peroxidase 1-like [Oryza sativa Japonica Group]	Root	K-means	All
+34	2	21.7497123318815	21.7686963750126	21.8071777935827	-	Root	K-means	All
+38	2	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	All
+39	2	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	All
+54	2	22.8708146311767	20.7956635278632	22.481836548391	-	Root	K-means	All
+81	2	23.4352550703853	23.4705868690824	23.7316203049809	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	All
+82	2	24.8789424822923	25.3708959066577	25.5380758279657	-	Root	K-means	All
+83	2	23.6453294914749	24.7058612321887	23.790531236585	-	Root	K-means	All
+91	2	22.1016826067172	21.6661835150902	22.3399908584692	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	K-means	All
+92	2	22.3998216915394	22.0982639426413	21.5785533317986	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	K-means	All
+24	2	20.4447778237302	20.5514900751234	20.5749500386039	-	Root	K-means	All
+23	2	19.8393507439576	21.3290639146922	20.4002290887959	-	Root	K-means	All
+35	2	21.7099624767719	21.1060716299423	21.5591463611935	-	Root	K-means	All
+41	2	21.6090035670213	20.7466928024203	20.0067459888279	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	All
+40	2	20.6467976788911	20.8032775346569	22.0885156880431	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	All
+51	2	20.7712669402341	21.1883548710767	21.6918670226285	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+55	2	22.6236972636184	22.3170635004433	22.0545324118693	-	Root	K-means	All
+56	2	23.7042601141214	22.2241432679586	21.733145162711	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+25	2	21.0393534077931	22.0015585085294	20.9551983996729	-	Root	K-means	All
+42	2	19.164407640759	20.321323179496	22.0928372847137	-	Root	K-means	All
+57	2	23.3202310673516	21.756844185349	22.1683889038674	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+26	2	19.9722239588372	20.4826143662194	20.8071456808736	Superoxide dismutase [Cu-Zn] 2 [Oryza sativa Japonica Group]	Root	K-means	All
+22	2	19.8372312662322	21.3555958746477	21.2539374664077	-	Root	K-means	All
+52	2	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	K-means	All
+58	2	21.9046506824068	21.7252242225227	21.0210309034305	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+46	2	20.7168502267784	20.812743900765	20.0931062814753	Germin-like protein 1-1 [Oryza sativa Japonica Group]	Root	K-means	All
+45	2	20.7963259866146	20.8755554097733	20.7494888851097	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+17	2	22.4021137002058	22.5836737407839	22.4166548873689	-	Root	K-means	All
+74	2	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	All
+44	2	20.9205707307779	21.0017635578709	21.18382112129	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	All
+59	2	22.5125589806554	22.2706039812919	22.9743288620142	-	Root	K-means	All
+60	2	22.4524640803191	22.1572379075401	22.7232415403882	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+63	2	21.6505369145582	22.1576028150043	22.6432894960302	-	Root	K-means	All
+64	2	22.4463519443491	22.3783345606821	22.8480885849775	Peroxidase 2 [Oryza sativa Japonica Group	Root	K-means	All
+65	2	22.730618824276	22.2894605089234	22.7516078697547	-	Root	K-means	All
+66	2	22.6048004269766	22.0630586796197	22.4898764250352	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+67	2	22.2965421631438	21.8698617840145	22.340129032499	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+68	2	22.0276945530294	21.6731595189705	22.2170054279885	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+69	2	21.8782898973508	21.2879280392415	22.1395782186638	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	All
+70	2	21.5962033900358	21.1009027047574	21.9766156509155	-	Root	K-means	All
+76	2	21.9720479073851	20.8007383771887	20.8877349679582	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	All
+77	2	22.0909369118879	21.0346285636388	20.7203991596371	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	All
+78	2	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	All
+79	2	21.4596014173207	20.5535023621992	21.0531089440461	-	Root	K-means	All
+80	2	22.1349883465706	21.5351938713462	22.1493688877038	-	Root	K-means	All
+93	2	22.2260519594585	22.2423210130716	22.4881668879364	-	Root	K-means	All
+1	1	19.0447377133508	20.405965767718	17.7689593934541	Prb1 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+30	1	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+8	1	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	K-means	Annotated
+19	1	19.3484031983108	18.7879275881966	18.3302041732774	"Pr1-like protein [Oryza sativa Japonica Group]
+"	Root	K-means	Annotated
+21	1	19.7316872912101	18.640476350574	18.8664108514501	Superoxide dismutase [Oryza sativa Japonica Group]	Root	K-means	Annotated
+26	1	19.9722239588372	20.4826143662194	20.8071456808736	Superoxide dismutase [Cu-Zn] 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+52	1	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	K-means	Annotated
+43	1	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+28	1	19.9241332482379	19.8181683666495	20.2846205069023	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+29	1	18.7947012557288	18.5362892158258	18.6017792138269	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+46	1	20.7168502267784	20.812743900765	20.0931062814753	Germin-like protein 1-1 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+86	1	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	K-means	Annotated
+73	1	18.7235720746233	18.46067214114	19.0063659760347	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+31	2	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+32	2	21.5104412542217	23.3966440158602	22.6891992188935	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+33	2	21.5728119145766	22.1477769482657	22.4100354148192	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+37	2	22.2868923249483	20.705614270189	22.7530739326516	Glucan endo-1,3-beta-glucosidase 7 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+90	2	22.4062906923609	20.0154050775387	20.667474738372	Peroxidase 1-like [Oryza sativa Japonica Group]	Root	K-means	Annotated
+38	2	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+39	2	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+81	2	23.4352550703853	23.4705868690824	23.7316203049809	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+91	2	22.1016826067172	21.6661835150902	22.3399908584692	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+92	2	22.3998216915394	22.0982639426413	21.5785533317986	Aspartic proteinase nepenthesin-1 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+41	2	21.6090035670213	20.7466928024203	20.0067459888279	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+40	2	20.6467976788911	20.8032775346569	22.0885156880431	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+51	2	20.7712669402341	21.1883548710767	21.6918670226285	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+56	2	23.7042601141214	22.2241432679586	21.733145162711	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+57	2	23.3202310673516	21.756844185349	22.1683889038674	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+58	2	21.9046506824068	21.7252242225227	21.0210309034305	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+45	2	20.7963259866146	20.8755554097733	20.7494888851097	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+74	2	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	Annotated
+44	2	20.9205707307779	21.0017635578709	21.18382112129	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+60	2	22.4524640803191	22.1572379075401	22.7232415403882	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+64	2	22.4463519443491	22.3783345606821	22.8480885849775	Peroxidase 2 [Oryza sativa Japonica Group	Root	K-means	Annotated
+66	2	22.6048004269766	22.0630586796197	22.4898764250352	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+67	2	22.2965421631438	21.8698617840145	22.340129032499	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+68	2	22.0276945530294	21.6731595189705	22.2170054279885	Peroxidase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+69	2	21.8782898973508	21.2879280392415	22.1395782186638	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+76	2	21.9720479073851	20.8007383771887	20.8877349679582	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	Annotated
+77	2	22.0909369118879	21.0346285636388	20.7203991596371	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	Annotated
+78	2	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	Annotated
+12	1	15.7962137581395	19.1627542667181	18.8881278295603	-	Root	K-means	Significant
+11	1	18.4781427620495	12.4990105007204	12.0942742312158	-	Root	K-means	Significant
+72	1	22.7518524567924	18.7594331463456	17.6654058355122	-	Root	K-means	Significant
+84	1	20.0367101081972	15.4183001938413	16.0386393957493	-	Root	K-means	Significant
+85	1	20.5897473405745	18.9681876209039	18.5885730074676	-	Root	K-means	Significant
+86	1	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	K-means	Significant
+87	1	20.569866050904	18.0324562963498	18.0468688211625	-	Root	K-means	Significant
+75	1	22.0208206033593	18.9093835466834	16.2253852789087	-	Root	K-means	Significant
+3	2	21.6823982621364	23.7042601141214	22.4738779414454	-	Root	K-means	Significant
+2	2	17.8942126146678	23.2070942868819	21.3003291922747	-	Root	K-means	Significant
+13	2	17.8630307600559	21.7003680299821	21.3093526241328	-	Root	K-means	Significant
+30	2	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	Significant
+31	2	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Significant
+50	2	19.6020757374961	21.331067257685	21.3701611846247	-	Root	K-means	Significant
+61	2	19.8146618540376	21.7413393734291	20.7271903912266	-	Root	K-means	Significant
+89	2	20.8473878019201	20.334850016382	22.0476805002894	-	Root	K-means	Significant
+5	2	22.0545715937972	23.3185447344775	22.7430022170365	-	Root	K-means	Significant
+15	2	16.1535638795943	19.7636541871264	19.6134946435493	-	Root	K-means	Significant
+62	2	19.7700558560049	22.3643039301129	22.3371469163468	-	Root	K-means	Significant
+8	2	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	K-means	Significant
+38	2	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Significant
+39	2	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Significant
+35	2	21.7099624767719	21.1060716299423	21.5591463611935	-	Root	K-means	Significant
+52	2	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	K-means	Significant
+43	2	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Significant
+74	2	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	Significant
+78	2	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	Significant
+30	1	18.2889526107488	19.9302735306387	19.2421133735032	Chitinase 2 [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+8	1	16.6356743866025	20.9709946487242	20.4221800468596	"Acidic PR-1 type pathogenesis-related protein PR-1a [Oryza sativa Japonica Group]
+"	Root	K-means	Annotated significant
+52	1	18.3317461223114	21.6922187558737	22.3148291752894	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group] 	Root	K-means	Annotated significant
+43	1	18.432014819327	20.6569778680322	20.9464659551622	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+86	1	21.2995903444352	17.387404671128	18.9447847187617	"Alpha-L-arabinofuranosidase 1 isoform X3 [Oryza sativa Japonica Group]
+"	Root	K-means	Annotated significant
+31	2	20.9939770104034	22.3286898688802	20.7901623575664	Glucan endo-1,3-beta-glucosidase 3 isoform X2 [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+38	2	23.4618411659646	22.0436717176504	23.4629863790076	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+39	2	23.3499629178802	21.9274074849103	23.2011433879167	Cysteine-rich receptor-like protein kinase 6 [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+74	2	24.5221655759554	22.6243545966131	20.0056434420828	Fructose-bisphosphate aldolase 3, cytoplasmic [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+78	2	22.2560286445531	20.9605809986939	21.2731860828607	Peroxidase P7 [Oryza sativa Japonica Group]	Root	K-means	Annotated significant
+3	1	10.5992553919478	12.6648655045711	10.5992553919478	-	Shoot	K-means	All
+58	1	13.4330967973942	19.3071416845486	14.8362657392115	-	Shoot	K-means	All
+1	1	20.0015318178484	18.8109239389507	19.2238729982623	-	Shoot	K-means	All
+20	1	17.3837893049301	18.8190803804619	19.8078879611391	-	Shoot	K-means	All
+17	1	18.5876897035512	19.0950102286086	20.4325484151437	-	Shoot	K-means	All
+16	1	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+21	1	16.6518857244115	16.0324383579507	15.0977036142419	-	Shoot	K-means	All
+4	1	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+70	1	14.9596209486016	19.6516564329255	18.5300413849203	-	Shoot	K-means	All
+22	1	19.7781500382056	17.8400589959599	17.9486381988311	-	Shoot	K-means	All
+28	1	19.6145706316068	19.101233328838	18.8025869801727	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	K-means	All
+31	1	14.4013444352476	17.354715887901	20.9232586795473	"Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]
+"	Shoot	K-means	All
+73	1	17.7634043029891	20.2417960251304	18.3992625433115	Heat shock cognate 70 kDa protein 2 [Oryza sativa Japonica Group] 	Shoot	K-means	All
+71	1	17.3427570941247	20.0110575776786	17.214438312129	-	Shoot	K-means	All
+18	1	16.9721536931135	18.0726882761281	18.9124092513262	-	Shoot	K-means	All
+15	1	18.1063114905395	18.5701442419797	18.2390980966377	-	Shoot	K-means	All
+9	1	18.1549671487559	18.2667288137308	18.7703438945694	-	Shoot	K-means	All
+8	1	17.5929869786273	17.6605085373808	18.5628563162289	-	Shoot	K-means	All
+10	1	18.6533349312394	18.2486289532776	20.8568454055186	-	Shoot	K-means	All
+27	1	18.6436634867585	18.5943591603272	18.1166067718815	-	Shoot	K-means	All
+26	1	20.9525165631916	15.7206236308865	13.6976705608827	-	Shoot	K-means	All
+50	1	20.7839881825981	18.5883995956358	18.2064353147948	-	Shoot	K-means	All
+45	1	19.9600336542443	16.8433241643638	19.5714830155549	-	Shoot	K-means	All
+11	1	16.8693469173695	17.5652804739903	17.733999678524	-	Shoot	K-means	All
+51	1	17.8468825354416	18.2352047744211	19.7872653730275	-	Shoot	K-means	All
+47	1	19.971945754529	18.5438020985982	19.4014410408066	-	Shoot	K-means	All
+52	1	19.209628518273	16.685142672833	17.7622637431827	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	K-means	All
+53	1	17.9593560035118	16.8108423646071	17.3846207341097	-	Shoot	K-means	All
+56	1	19.7872034495029	19.2182421450025	16.5373125349381	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	K-means	All
+67	1	17.2490660604746	17.1191151073859	17.3786334754537	-	Shoot	K-means	All
+68	1	17.733999678524	18.1454142956844	17.5265376337447	-	Shoot	K-means	All
+7	1	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+12	1	16.7512585052629	15.21262888836	17.487929815893	-	Shoot	K-means	All
+13	1	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+54	1	19.4480201325035	19.4474597106377	17.5332181317537	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	K-means	All
+14	1	17.1334351608379	13.8930424044544	16.7512585052629	-	Shoot	K-means	All
+69	1	17.4646888405604	18.2063732379732	18.5876897035512	-	Shoot	K-means	All
+2	2	21.8677383466698	21.3489443921747	21.6584479174052	-	Shoot	K-means	All
+19	2	19.7337185820513	20.0701487503009	19.526250987365	-	Shoot	K-means	All
+72	2	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+23	2	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	K-means	All
+24	2	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+29	2	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	K-means	All
+30	2	18.4618358815392	19.4336866119763	22.0807608787095	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	K-means	All
+36	2	22.5448107928692	21.7931256154303	23.6879582020805	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+37	2	23.2283220980987	22.4089251312387	23.2164634967481	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+38	2	23.6879582020805	22.4969777797213	23.8403170978344	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+74	2	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+5	2	19.4458426725484	21.309911962931	17.1566187700833	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+25	2	21.8780228517667	19.2415699766507	19.2225696115671	-	Shoot	K-means	All
+48	2	21.3050301992218	21.0851978332995	22.1147885132138	-	Shoot	K-means	All
+44	2	21.3380331291322	20.7178123254317	22.3881331099913	Malate dehydrogenase, mitochondrial [Oryza sativa Japonica Group]	Shoot	K-means	All
+39	2	23.5873314807652	22.2432952152524	22.7254990453607	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+40	2	21.8784581435221	21.6196176031999	22.2257672726263	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	All
+65	2	19.4518629354483	24.2536180716596	19.5674104718888	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	All
+6	2	24.046967584747	19.4266298625389	20.5704404635083	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+49	2	21.3302262482744	20.2515672406157	20.4539150321556	Glyceraldehyde-3-phosphate dehydrogenase 2, cytosolic [Oryza sativa Japonica Group]	Shoot	K-means	All
+55	2	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	All
+46	2	20.8131912514242	18.9116394204827	19.8075704356739	-	Shoot	K-means	All
+57	2	19.5082531292538	19.9587078005701	19.5861275593742	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	K-means	All
+32	2	20.4431021197862	20.3594646948686	19.753172640198	"Putative Peptidyl-prolyl cis-trans isomerase, chloroplast precursor (40 kDa thylakoid lumen rotamase) [Oryza sativa Japonica Group]
+"	Shoot	K-means	All
+33	2	21.2558515460493	20.8376568690371	20.5107792700052	-	Shoot	K-means	All
+34	2	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	All
+35	2	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	K-means	All
+41	2	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	All
+42	2	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	K-means	All
+43	2	22.4089198886992	21.6675054912473	21.1224198331552	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	All
+59	2	20.2402481576027	21.2253584774178	20.3967301233733	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	All
+60	2	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	All
+61	2	21.4396341711674	21.3872532559547	21.591467069521	"Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]
+"	Shoot	K-means	All
+62	2	21.605080300023	21.7323542985852	21.7502554103024	ATP synthase CF1 beta subunit (chloroplast) [Oryza glaberrima]	Shoot	K-means	All
+63	2	21.7983314779317	22.1486508309869	21.4747427160596	Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]	Shoot	K-means	All
+64	2	20.9361797238822	22.6077496824518	21.0532086573524	Ribulose 1,5-bisphosphate carboxylase/oxygenase, partial [Oryza rufipogon]	Shoot	K-means	All
+66	2	20.8848394129726	22.5096814969202	20.9082773695711	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	All
+16	1	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+4	1	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+72	1	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+23	1	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+28	1	19.6145706316068	19.101233328838	18.8025869801727	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	K-means	Annotated
+30	1	18.4618358815392	19.4336866119763	22.0807608787095	Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]	Shoot	K-means	Annotated
+31	1	14.4013444352476	17.354715887901	20.9232586795473	"Oxygen-evolving enhancer protein 1, partial [Oryza sativa Indica Group]
+"	Shoot	K-means	Annotated
+73	1	17.7634043029891	20.2417960251304	18.3992625433115	Heat shock cognate 70 kDa protein 2 [Oryza sativa Japonica Group] 	Shoot	K-means	Annotated
+5	1	19.4458426725484	21.309911962931	17.1566187700833	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+55	1	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated
+57	1	19.5082531292538	19.9587078005701	19.5861275593742	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	K-means	Annotated
+52	1	19.209628518273	16.685142672833	17.7622637431827	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+56	1	19.7872034495029	19.2182421450025	16.5373125349381	"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+"	Shoot	K-means	Annotated
+7	1	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+13	1	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+54	1	19.4480201325035	19.4474597106377	17.5332181317537	Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+24	2	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+29	2	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	K-means	Annotated
+36	2	22.5448107928692	21.7931256154303	23.6879582020805	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+37	2	23.2283220980987	22.4089251312387	23.2164634967481	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+38	2	23.6879582020805	22.4969777797213	23.8403170978344	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+74	2	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+44	2	21.3380331291322	20.7178123254317	22.3881331099913	Malate dehydrogenase, mitochondrial [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+39	2	23.5873314807652	22.2432952152524	22.7254990453607	Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+40	2	21.8784581435221	21.6196176031999	22.2257672726263	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+65	2	19.4518629354483	24.2536180716596	19.5674104718888	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated
+6	2	24.046967584747	19.4266298625389	20.5704404635083	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+49	2	21.3302262482744	20.2515672406157	20.4539150321556	Glyceraldehyde-3-phosphate dehydrogenase 2, cytosolic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+32	2	20.4431021197862	20.3594646948686	19.753172640198	"Putative Peptidyl-prolyl cis-trans isomerase, chloroplast precursor (40 kDa thylakoid lumen rotamase) [Oryza sativa Japonica Group]
+"	Shoot	K-means	Annotated
+34	2	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+35	2	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	K-means	Annotated
+41	2	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+42	2	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	K-means	Annotated
+43	2	22.4089198886992	21.6675054912473	21.1224198331552	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+59	2	20.2402481576027	21.2253584774178	20.3967301233733	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated
+60	2	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated
+61	2	21.4396341711674	21.3872532559547	21.591467069521	"Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]
+"	Shoot	K-means	Annotated
+62	2	21.605080300023	21.7323542985852	21.7502554103024	ATP synthase CF1 beta subunit (chloroplast) [Oryza glaberrima]	Shoot	K-means	Annotated
+63	2	21.7983314779317	22.1486508309869	21.4747427160596	Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]	Shoot	K-means	Annotated
+64	2	20.9361797238822	22.6077496824518	21.0532086573524	Ribulose 1,5-bisphosphate carboxylase/oxygenase, partial [Oryza rufipogon]	Shoot	K-means	Annotated
+66	2	20.8848394129726	22.5096814969202	20.9082773695711	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated
+3	1	10.5992553919478	12.6648655045711	10.5992553919478	-	Shoot	K-means	Significant
+58	1	13.4330967973942	19.3071416845486	14.8362657392115	-	Shoot	K-means	Significant
+4	1	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+13	1	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+20	2	17.3837893049301	18.8190803804619	19.8078879611391	-	Shoot	K-means	Significant
+17	2	18.5876897035512	19.0950102286086	20.4325484151437	-	Shoot	K-means	Significant
+19	2	19.7337185820513	20.0701487503009	19.526250987365	-	Shoot	K-means	Significant
+16	2	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+72	2	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+70	2	14.9596209486016	19.6516564329255	18.5300413849203	-	Shoot	K-means	Significant
+23	2	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+24	2	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+29	2	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	K-means	Significant
+74	2	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+18	2	16.9721536931135	18.0726882761281	18.9124092513262	-	Shoot	K-means	Significant
+15	2	18.1063114905395	18.5701442419797	18.2390980966377	-	Shoot	K-means	Significant
+55	2	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Significant
+68	2	17.733999678524	18.1454142956844	17.5265376337447	-	Shoot	K-means	Significant
+7	2	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+33	2	21.2558515460493	20.8376568690371	20.5107792700052	-	Shoot	K-means	Significant
+34	2	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+35	2	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	K-means	Significant
+41	2	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	Significant
+42	2	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	K-means	Significant
+60	2	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Significant
+16	1	18.8025869801727	17.8637521521776	19.4964626319675	2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+4	1	17.7643436894933	15.1855472292532	14.9596209486016	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+7	1	19.4238855923344	20.2625215119646	15.0977036142419	Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+13	1	15.6024366599137	16.9781012926205	17.2985525013685	Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+72	2	17.0242185740787	20.9492679569712	21.3738574467049	Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+23	2	19.4813341270957	19.2356017087079	21.1415366544566	20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+24	2	20.8268325700243	20.8989949473139	22.4089198886992	Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+29	2	19.5511779529085	19.7718645387866	23.0734065494278	Oxygen-evolving complex protein 1 [Oryza sativa]	Shoot	K-means	Annotated significant
+74	2	19.4089733841738	21.789045999604	23.2283220980987	Transketolase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+55	2	21.100477017832	20.1093396734266	19.2042123502992	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated significant
+34	2	21.7151946976118	21.1738046714083	20.7108336817494	Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+35	2	21.9902680208263	21.4198316202423	20.7024135274996	Sedoheptulose-1,7-bisphosphatase	Shoot	K-means	Annotated significant
+41	2	22.2257672726263	21.9713513674142	21.1460965862376	Chloroplastic aldolase [Oryza sativa Japonica Group]	Shoot	K-means	Annotated significant
+42	2	22.6557895522817	22.1733314938027	21.4749334691855	Fructose-bisphosphate aldolase, chloroplastic	Shoot	K-means	Annotated significant
+60	2	20.5642090734346	21.6118306232322	20.6905262488905	"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+"	Shoot	K-means	Annotated significant

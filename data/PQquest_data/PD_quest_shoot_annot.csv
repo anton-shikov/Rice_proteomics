@@ -1,0 +1,85 @@
+PDquest_num;Annotation;Spot;Accession
+SSP 1503;-;3;-
+SSP 1701;-;58;-
+SSP 2404;-;2;-
+SSP 2405;-;1;-
+SSP 2503;-;20;-
+SSP 2504;-;17;-
+SSP 2505;-;19;-
+SSP 2506;2-Cys peroxiredoxin BAS1, chloroplastic [Oryza sativa Japonica Group];16;XP_015627405.1
+SSP 2507;-;21;-
+SSP 2508;Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group];4;XP_015619408 
+SSP 2805;Stromal 70 kDa heat shock-related protein, chloroplastic [Oryza sativa Japonica Group];72; XP_015639965.1 
+SSP 2806;-;70;-
+SSP 3607;-;22;-
+SSP 3608;20 kDa chaperonin, chloroplastic isoform X1 [Oryza sativa Japonica Group];23;XP_015643023.1
+SSP 3609;Oxygen-evolving enhancer protein 2, chloroplastic [Oryza sativa Japonica Group];24;XP_015646728.1   
+SSP 3612;Oxygen-evolving complex protein 1 [Oryza sativa];28;2002393A
+SSP 3613;Oxygen-evolving complex protein 1 [Oryza sativa];29;2002393A
+SSP 3614;Oxygen-evolving complex protein 1 [Oryza sativa];30;2002393A
+SSP 3615;"Oxygen-evolving complex protein 1 [Oryza sativa]
+";31;2002393A
+SSP 3709;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];36;XP_015616895.1
+SSP 3710;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];37;XP_015616895.1
+SSP 3711;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];38;XP_015616895.1
+SSP 3803;Heat shock cognate 70 kDa protein 2 [Oryza sativa Japonica Group] ;73;XP_015616495.1 
+SSP 3804;-;71;-
+SSP 3805;Transketolase, chloroplastic [Oryza sativa Japonica Group];74;XP_015643207.1
+SSP 4501;Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group];5;XP_015619408 
+SSP 4502;-;18;-
+SSP 4503;-;15;-
+SSP 4505;-;9;-
+SSP 4506;-;8;-
+SSP 4507;-;10;-
+SSP 4508;-;25;-
+SSP 4703;-;48;-
+SSP 4704;Malate dehydrogenase, mitochondrial [Oryza sativa Japonica Group];44;XP_015639465.1 
+SSP 4705;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];39;XP_015616895.1
+SSP 4706;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];40;XP_015616895.1
+SSP 4802;"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+";65;QFR04205.1 
+SSP 5503;Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group];6;XP_015619408 
+SSP 5603;-;27;-
+SSP 5604;-;26;-
+SSP 5705;Glyceraldehyde-3-phosphate dehydrogenase 2, cytosolic [Oryza sativa Japonica Group];49;XP_015635626.1
+SSP 5706;"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+";55;QFR04205.1
+SSP 5707;-;46;-
+SSP 5708;-;50;-
+SSP 5709;-;45;-
+SSP 6504;-;11;-
+SSP 6704;"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+";57;AAA82047.1  
+SSP 6705;-;51;-
+SSP 6706;-;47;-
+SSP 6707;Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group];52;XP_025879724.1
+SSP 6708;-;53;-
+SSP 6709;"Glyceraldehyde-3-phosphate dehydrogenase [Oryza sativa Indica Group]
+";56;AAA82047.1  
+SSP 6803;-;67;-
+SSP 6903;-;68;-
+SSP 7503;Ribulose bisphosphate carboxylase small chain A, chloroplastic [Oryza sativa Japonica Group];7;XP_015619408 
+SSP 7504;-;12;-
+SSP 7505;Photosynthetic NDH subunit of lumenal location 5, chloroplastic [Oryza sativa Japonica Group];13;XP_015640756.1
+SSP 7701;Peroxisomal (S)-2-hydroxy-acid oxidase GLO1 [Oryza sativa Japonica Group];54;XP_025879724.1
+SSP 8502;-;14;-
+SSP 8904;-;69;-
+SSP new1;"Putative Peptidyl-prolyl cis-trans isomerase, chloroplast precursor (40 kDa thylakoid lumen rotamase) [Oryza sativa Japonica Group]
+";32;BAD05657.1 
+SSP new10;"Putative atpB; ATPase beta subunit from chromosome 10 chloroplast insertion [Oryza sativa Japonica Group]
+";61;AAM08603.1
+SSP new11;ATP synthase CF1 beta subunit (chloroplast) [Oryza glaberrima];62;AGY93290.1
+SSP new12;ATP synthase CF1 beta subunit (chloroplast) [Oryza glaberrima];63;AGY93290.1
+SSP new13;Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa];64;QFR04205.1
+SSP new14;"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+";66;QFR04205.1 
+SSP new2;-;33;-
+SSP new3;Phosphoribulokinase, chloroplastic [Oryza sativa Japonica Group];34;XP_015625719.1
+SSP new4;Sedoheptulose-1,7-bisphosphatase;35;XP_015633459.1 
+SSP new5;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];41;XP_015616895.1
+SSP new6;Fructose-bisphosphate aldolase, chloroplastic;42;XP_015616895.1
+SSP new7;Fructose-bisphosphate aldolase, chloroplastic [Oryza sativa Japonica Group];43;XP_015616895.1
+SSP new8;"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+";59;QFR04205.1
+SSP new9;"Ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit [Oryza sativa]
+";60;QFR04205.1 
