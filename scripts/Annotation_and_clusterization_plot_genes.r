@@ -1076,6 +1076,90 @@ ggplot(Condition_TF_sites_rice_summary_melt_sites, aes(x= reorder(TF,-percent), 
   ylab("Number of genes")+
   xlab("TF")
 
+#Find differences
+diff_df <- data.frame(TF=c(),organ=c(),type=c(),condition_pair=c(),dif_value=c(), max_cond=c(),max_val=c())
+
+for(TF in levels(as.factor(Condition_TF_sites_rice_summary_melt_genes$TF))){
+  for (organ in levels(as.factor(Condition_TF_sites_rice_summary_melt_genes$variable))){
+    sub_df <- Condition_TF_sites_rice_summary_melt_genes[Condition_TF_sites_rice_summary_melt_genes$TF==TF & 
+                                                           Condition_TF_sites_rice_summary_melt_genes$variable==organ,]
+    an_val = sub_df[sub_df$Type=='Anoxia',5]
+    cont_val = sub_df[sub_df$Type=='Control',5]
+    rear_val = sub_df[sub_df$Type=='Re-aeration',5]
+    
+    max_dif = max(c(abs(an_val-cont_val),abs(cont_val-rear_val),abs(an_val-rear_val)))
+    
+    max_val = max(c(an_val,cont_val,rear_val))
+    
+    organ_split=strsplit(organ,split='_', fixed=TRUE)[[1]][1]
+    
+    df_comp = data.frame(TF=TF,organ=organ_split,type='Genes',condition_pair='',dif_value=round(max_dif,2),max_cond = 'None', max_val=round(max_val,2))
+    
+    
+    if (abs(an_val-cont_val) == max_dif) {
+      df_comp$condition_pair = 'anoxia_vs_control'
+      
+    } else if (abs(cont_val-rear_val) == max_dif){
+      df_comp$condition_pair = 'control_vs_re-aeration'
+    } else if (abs(an_val-rear_val) == max_dif){
+      df_comp$condition_pair = 'anoxia_vs_re-aeration'
+    } 
+    
+    if (an_val == max_val) {
+      df_comp$max_cond = 'anoxia'
+      
+    } else if (cont_val == max_val){
+      df_comp$max_cond = 'control'
+    } else if (rear_val == max_val){
+      df_comp$max_cond = 're-aeration'
+    } 
+    
+    
+    diff_df <- rbind(diff_df,df_comp)
+  }
+}
+
+
+for(TF in levels(as.factor(Condition_TF_sites_rice_summary_melt_sites$TF))){
+  for (organ in levels(as.factor(Condition_TF_sites_rice_summary_melt_sites$variable))){
+    sub_df <- Condition_TF_sites_rice_summary_melt_sites[Condition_TF_sites_rice_summary_melt_sites$TF==TF & 
+                                                           Condition_TF_sites_rice_summary_melt_sites$variable==organ,]
+    an_val = sub_df[sub_df$Type=='Anoxia',5]
+    cont_val = sub_df[sub_df$Type=='Control',5]
+    rear_val = sub_df[sub_df$Type=='Re-aeration',5]
+    
+    max_dif = max(c(abs(an_val-cont_val),abs(cont_val-rear_val),abs(an_val-rear_val)))
+    max_val = max(c(an_val,cont_val,rear_val))
+    organ_split=strsplit(organ,split='_', fixed=TRUE)[[1]][1]
+    
+    df_comp = data.frame(TF=TF,organ=organ_split,type='Sites',condition_pair='',dif_value=round(max_dif,2),max_cond = '', max_val=round(max_val,2))
+    
+    if (abs(an_val-cont_val) == max_dif) {
+      df_comp$condition_pair = 'anoxia_vs_control'
+      
+    } else if (abs(cont_val-rear_val) == max_dif){
+      df_comp$condition_pair = 'control_vs_re-aeration'
+    } else if (abs(an_val-rear_val) == max_dif){
+      df_comp$condition_pair = 'anoxia_vs_re-aeration'
+    } 
+    
+    if (an_val == max_val) {
+      df_comp$max_cond = 'anoxia'
+      
+    } else if (cont_val == max_val){
+      df_comp$max_cond = 'control'
+    } else if (rear_val == max_val){
+      df_comp$max_cond = 're-aeration'
+    } 
+    diff_df <- rbind(diff_df,df_comp)
+  }
+}
+
+write.xlsx(diff_df, "Difference_between TFs_conditions.xlsx", sheetName="Sheet1",
+           col.names=TRUE, row.names=FALSE, append=FALSE)
+
+
+
 #AT all organs
 
 
