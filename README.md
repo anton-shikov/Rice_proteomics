@@ -1,9 +1,9 @@
 # Rice proteomics
-The repository with working codes and supplementary materials for the study of Cry toxins evolution
+The repository with working codes and supplementary materials for the study of rice proteomes in shoots and roots under anoxia and post-anoxic re-aeration using two-dimensional difference gel electrophoresis (2D-DIGE). 
 
 ## Contents 
 
-This repository contains scripts used for statistical processing, phylogeny reconstruction, inferencing recombination events, and analyzing evolutionary selection in the sequences of 3-domain Cry toxins. Please consult the Methods section in the paper for extra details:
+This repository contains scripts used for statistical processing, MS-based protein identification, visualization of the results, and raw data. Please consult the methods section of the article for extra details:
 
 ## Figures
 Figures from the main text are available in the `pics/` directory. For the description, please consult the Results section of the article.
