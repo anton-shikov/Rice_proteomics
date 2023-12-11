@@ -52,7 +52,7 @@ The directory contains both MS1 and MS/MS spectra with m/z values for protein sp
   * `all_annots.tsv` - the table with COG (cluster of orthologous genes) codes for proteins grouped according to plant organs.
 
 - The `TF_predictions` directory includes the results of TF binding sites (TFBS) predictions in the upstream sequences of genes encoding identified proteins in the reference rice genomes and the closest homologs in the reference <i>Arabidopsis thaliana</i> reference genome. 
-  * `Rice/Shoot` and `/Rice/Root` directories contain putative TF binding sites found with the PlantPAN server. The tables are named according to the accession numbers of the identified proteins; 
+  * `Rice/Shoot` and `/Rice/Root` directories contain putative TF binding sites found using the PlantPAN server. The tables are named according to the accession numbers of the identified proteins; 
   * Tables in the `Rice/Coords` directory represent the coordinate-wise number of sites and genes within a certain TF family for all and significantly different proteins only denoted with `_all.tsv` and `signif.tsv` postfixes, respectively;
   * `Rice/numbers_signif.tsv` and `numbers_all.tsv` - summaries of the number of sites and genes for a certain TF family with genes grouped according to the condition in which the respective protein spots were of the highest optical density; 
   * `AT/All` - predicted number of TFBS for <i>A. thaliana</i> genes encoding homologs of identified rice proteins using the AthaMap resource;
@@ -71,7 +71,7 @@ The directory contains both MS1 and MS/MS spectra with m/z values for protein sp
 ## Scripts
 The `scripts/` directory includes all code used for proteome analysis. All required input files are presented in the ` data /` folder. For convenience, the paths to the input files are given relative to the directory with scripts. 
 - `IO_lib.py` - the ancillary script with functions for parsing tables and writing files.
-- The `filter_trypsin.py` script was used to clean MS/MS spectra from peaks corresponding to trypsin. To run the script use the following command:
+- The `filter_trypsin.py` script was used to clean MS/MS spectra from peaks corresponding to trypsin. To run the script, use the following command:
 
   ``` python3 filter_trypsin.py ../data/Spectra/trypsin_mass.txt ../data/Spectra/roots/MS_MS/MGF/1_1.mgf``` 
 
@@ -80,11 +80,11 @@ The `scripts/` directory includes all code used for proteome analysis. All requi
   ``` python3 amino_acid_distr.py -f ../data/Fasta/Protein/root_protein_sequences_IPG.fasta``` 
   
 - `calculate_clusters_similarity.py` - the script performs a comparison of clustering patterns using different methods and sets of protein spots. The script is run as follows:
-- 
+ 
     ``` python3 calculate_clusters_similarity.py -c ../data/Clusterization/All_clusterizations_mearged.csv```
   
 - `get_251_nt_promotors.py` - the script for splitting 500 b.p. long sequences into two parts to make the resulting files compatible with the CrProm software. The script is launched with the following command:
-- 
+  
     ``` python3 get_251_nt_promotors.py -f ../data/Fasta/Upstream/root_nucleotide_sequences_all_500_upstream.fasta```
     
 - `get_AT_content.py` - the script for summarizing AT content in the upstream region and genes encoding identified proteins. The script could be launched as follows:
