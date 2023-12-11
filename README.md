@@ -80,9 +80,11 @@ The `scripts/` directory includes all code used for proteome analysis. All requi
   ``` python3 amino_acid_distr.py -f ../data/Fasta/Protein/root_protein_sequences_IPG.fasta``` 
   
 - `calculate_clusters_similarity.py` - the script performs a comparison of clustering patterns using different methods and sets of protein spots. The script is run as follows:
+- 
     ``` python3 calculate_clusters_similarity.py -c ../data/Clusterization/All_clusterizations_mearged.csv```
   
 - `get_251_nt_promotors.py` - the script for splitting 500 b.p. long sequences into two parts to make the resulting files compatible with the CrProm software. The script is launched with the following command:
+- 
     ``` python3 get_251_nt_promotors.py -f ../data/Fasta/Upstream/root_nucleotide_sequences_all_500_upstream.fasta```
     
 - `get_AT_content.py` - the script for summarizing AT content in the upstream region and genes encoding identified proteins. The script could be launched as follows:
@@ -90,6 +92,7 @@ The `scripts/` directory includes all code used for proteome analysis. All requi
     ``` python3  get_AT_content.py -f ../data/Fasta/Nucleotide/root_nucleotide_sequences_IPG.fasta```
 
 - `build_promotor_graph.py` - the script for summarizing TF binding sites obtained with the PlantPan software. The script is run with the following command:
+  
 ``` python3 build_promotor_graph.py -r ../data/PQquest_data/roots_with_new_log.csv -s ../data/PQquest_data/shoots_with_new_log.csv -sr ../data/PQquest_data/rice_roots_signif_spots_annot.csv  -ss ../PQquest_data/rice_roots_signif_spots_annot.csv -rd ../data/TF_predictions/Rice/Root -sd ../data/TF_predictions/Rice/Shoot ```
 
 - The `MS_processing.R` script was applied to perform spots’ annotation based on MS/MS spectra with the MSGFplus package;
